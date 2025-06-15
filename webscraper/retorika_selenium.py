@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import pyperclip  # pip install pyperclip
+import pyperclip  # instalar pyperclip
 service = Service("webscraper\\msedgedriver.exe")
 driver = webdriver.Edge(service=service)
 links = []
@@ -12,12 +12,12 @@ try:
     driver.get("https://retorika.es/tabbycats/list")
     time.sleep(4)
 
-    # Wait for the search input to appear
+    # Esperar a barra de busqueda
     search_input = driver.find_element(By.CLASS_NAME, "searchbar-input")
-    search_input.send_keys("WUDC")
+    search_input.send_keys("CMUDE")
 
     time.sleep(2)
-    # Send search and trigger Angular's input handle
+    # Escribir en barra
     search_results = driver.find_elements(By.CSS_SELECTOR, "ion-item.ret-item")
     print(len(search_results))
     
@@ -25,13 +25,17 @@ try:
         result.click()
         text = result.text
         print("clicked",text)
-        time.sleep(1)  # Wait for clipboard copy
+        time.sleep(1)  # Esperar para copiar a clipboard
         
-        # Get clipboard content
+        # Obtener contenido de clipboard
         link = pyperclip.paste()
         links.append(link)
         
         time.sleep(0.5)
 finally:
     driver.quit()
-    print(links)
+    # escribir a txt los enlaces
+    with open("data/links.txt","a") as f:
+        for l in links:
+            f.write(f"{l}\n")
+

@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import time
+import json
 import requests
 def scrape_basic(url):
   """
@@ -9,10 +10,13 @@ def scrape_basic(url):
   response = requests.get(url)
   if response.status_code == 200:
     s = BeautifulSoup(response.text, 'html.parser')
-    # Process data
+
   else:
     print("Error:", response.status_code)
   return s
+
+def format_link(link):
+  return "/".join(link.split("/")[:4])+"/"
 
 def get_infoslide(card):
   try:
@@ -33,23 +37,31 @@ def scrape_tabbycat(url):
   """
   motions_list = []
   try: # probar URL motions
-    s = scrape_basic(url+"/motions")
+    s = scrape_basic(url+"motions")
     cards = s.find_all("div",class_="card mt-3")
     for card in cards:
       motion = card.find("div",class_="mr-auto pr-3 lead").get_text().strip()
       info_slide = get_infoslide(card)
-      print(motion)
-      print(info_slide)
-      #motions_list.append({"motion":motion,"info_slide":info_slide})
+      #print(motion)
+      #print(info_slide)
+      motions_list.append({"motion":motion,"info_slide":info_slide})
   except:
     try: # Probar url motions/statistics
       s = scrape_basic(url+"motions/statistics")
       cards = s.find_all("div",class_="list-group mt-3")
       for card in cards:
-        print(card.find("h4",class_="mb-3 mt-1").get_text().strip())
+        motion = card.find("h4",class_="mb-3 mt-1").get_text().strip()
+        #print(motion)
         info_slide = get_infoslide(card)
-        print(info_slide)
+        #print(info_slide)
+        motions_list.append({"motion":motion,"info_slide":info_slide})
     except:
-      print("no motions")
-url = "https://tabeld.calicotab.com/ELDOPEN2018/"
-scrape_tabbycat(url)
+      return motions_list
+  finally:
+    return motions_list
+
+link = "https://cmude2023.calicotab.com/cmude2023/draw/"
+print(format_link(link))
+
+link2 = "https://cmude2023.calicotab.com/cmude2023/"
+print(json.dumps(scrape_tabbycat(link2), indent=2).encode('utf8'))
