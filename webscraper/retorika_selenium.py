@@ -8,13 +8,15 @@ import pyperclip  # instalar pyperclip
 service = Service("webscraper\\msedgedriver.exe")
 driver = webdriver.Edge(service=service)
 links = []
+
+search_word = "WUDC"
 try:
     driver.get("https://retorika.es/tabbycats/list")
     time.sleep(4)
 
     # Esperar a barra de busqueda
     search_input = driver.find_element(By.CLASS_NAME, "searchbar-input")
-    search_input.send_keys("CMUDE")
+    search_input.send_keys(search_word)
 
     time.sleep(2)
     # Escribir en barra

@@ -60,8 +60,4 @@ def scrape_tabbycat(url):
   finally:
     return motions_list
 
-link = "https://cmude2023.calicotab.com/cmude2023/draw/"
-print(format_link(link))
 
-link2 = "https://cmude2023.calicotab.com/cmude2023/"
-print(json.dumps(scrape_tabbycat(link2), indent=2).encode('utf8'))

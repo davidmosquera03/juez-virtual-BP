@@ -118,7 +118,7 @@ sidad de personas y géneros que existen en el circuito y en la socie-
 dad, más allá del contexto binario.
 
 
-## REPÚBLICA
+
 
 
 ## Índice
@@ -300,9 +300,9 @@ presentadas en este manual, y no de acuerdo a qué tanto se apegan a las guías.
 ```
 
 
-## Reglas Centrales
 
-## de Debate BP
+
+
 
 # 1
 

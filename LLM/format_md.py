@@ -6,7 +6,7 @@ with open('data/manual.md', 'r', encoding='utf-8') as f:
 
 # Define the pattern to remove, handling potential variations in whitespace/newlines
 # re.DOTALL makes '.' match newlines, allowing for the multi-line pattern.
-pattern_to_remove = r"```\s*REPÚBLICA\s*DOMINICANA\s*```"
+pattern_to_remove = r"```\s*REPÚBLICA\s*DOMINICANA\s*```|(\#\# (Reglas Centrales|REPÚBLICA|de Debate BP))"
 
 # Remove all occurrences of the pattern
 cleaned_markdown_text = re.sub(pattern_to_remove, "", markdown_text, flags=re.DOTALL)
