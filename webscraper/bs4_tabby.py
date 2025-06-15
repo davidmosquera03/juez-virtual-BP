@@ -60,4 +60,21 @@ def scrape_tabbycat(url):
   finally:
     return motions_list
 
+def generate_json_motions():
+  json_list = []
+  with open("data/test.txt","r") as f:
+    for line in f:
+      link = line.strip("\n")
+      motions = scrape_tabbycat(format_link(link))
+      print(len(motions))
+      if len(motions)>0:
+        for x in motions:
+          json_list.append(x)
+  #print(json.dumps(json_list, indent=2,ensure_ascii=False))
+  print(len(json_list))
+  # store JSON 
+  with open("data/motions.json","w",encoding="utf-8") as f:
+    f.write(json.dumps(json_list, indent=2,ensure_ascii=False))
 
+
+generate_json_motions()

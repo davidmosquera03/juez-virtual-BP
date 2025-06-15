@@ -1,231 +1,105 @@
-
-**MANUAL PARA**
-
-**DEBATIENTES Y PERSONAS**
-
-**JUEZAS**
-
-**MANUAL PARA**
-
-**DEBATIENTES Y PERSONAS**
-
-**JUEZAS**
-
-
-
-**Nota sobre la autoría del Manual**
-
-Debating and Judging Manual (o ‘Manual para personas juezas y debatientes’) de
-World Universities Debating Championship (WUDC por sus siglas en inglés) fue ini-
-cialmente desarrollada para la 35º edición del Campeonato en Malasia. Previo a su
-desarrollo, no hubo otro documento de referencia más allá de la Constitución de
-WUDC. El Manual de WUDC es un resultado del tiempo, trabajo, sabiduría y esfuerzo de
-diversos equipos de adjudicación, intelectuales y académicas de debate.
-
-El Equipo de Adjudicación de CMUDE República Dominicana 2025 (Diego Duarte, Nata-
-lia García, Amparo Perucho, Angelo Saavedra, Júlia García, Omar Espinoza y Pedro
-Tomás) ha trabajado para actualizar y aclarar secciones del documento original.
-
-### Lista abreviada de principales contribuyentes
-
-#### Principales contribuyentes al Manual de WUDC
-
-```
-» Anteriores Jefaturas de Adjudicación de WUDC y EUDC: Michael Baer, Sam Block,
-Doug Cochran, Lucinda David, Harish Natarajan, Sharmila Parmanand, Ameera Nata-
-sha Moore, Dan Lahav, Elisha Kunene, Enting Lee, Fanele Mashwama, Raffy Marshall,
-Steph White, Daan Welling, Dee Courtney, Duncan Crowe, Gigi Gil, Ilija Ivanišević, Olivia
-Sundberg, y Yair Har-Oz.
-```
-```
-» Equipo de Adjudicación de EUDC Manchester 2013: Alex Worsnip, Andrew Tuffin, Des-
-sislava Kirova, Filip Dobranić, Omer Nevo, Joe Roussos, Jonathan Leader Maynard, Sam
-Block, y Shengwu Li por su trabajo original en la ‘Tabla de personas oradoras’.
-```
-```
-» Equipo de Adjudicación de WUDC Malasia 2015: Shafiq Bazari, Jonathan Leader May-
-nard, Engin Arıkan, Brett Frazer, Madeline Schultz, Sebastian Templeton, y Danique van
-Koppenhagen.
-```
-```
-» Equipo de Adjudicación de EUDC Varsovia 2016: Emilia Carlqvist, Harish Natarajan,
-Adam Hawksbee, Helena Ivanov, Radu Cotarcea, y Yael Bezalel por la actualización de
-la ‘Tabla de personas oradoras’.
-```
-```
-» Equipo de Adjudicación de EUDC Atenas 2019: Dan Lahav, Sharmila Parmanand, Benji
-```
-
-
-Kalman, Brian Wong, Cliodhna Ni Cheileachair, y Milos Marjanovic por la creación de la
-‘Tabla de evaluación a personas juezas’.
-
-**»** Equipo de Adjudicación de WUDC Tailandia 2020: Archie Hall, Ashish Kumar, Ayal
-Hayut-man, Cliff Simataa, Jasmine Ho, Jessica Musulin, Julio Meyer, Lucía Arce, Mayu
-Arimoto y Michael Dunn Goekjian.
-
-**»** Equipo de Adjudicación de EUDC Astaná 2020: Monica Forman, Raffy Marshall, Melda
-Eren, Tin Puljic, Tom Manor.
-
-**»** Equipo de Adjudicación de WUDC Corea 2021: Bobbi Leet, Boemo Phirinyane, Connor
-O’Brien, Dan Lahav, Milos Marjanovic, Mubarrat Wassey, Sebastian Dasso, Sooyoung
-Park, Tejal Patwardhan, y Teck Wei Tan.
-
-**»** Equipo de Adjudicación de WUDC Belgrado 2022: Brent Schmidt, Enting Lee, Hadar
-Goldberg, Juanita Hincapié Restrepo, Milos Marjanovic, Noluthando Honono, Robert
-Barrie, y Yarn Shih.
-
-**»** Equipo de Adjudicación de WUDC Madrid 2023: Lovro Sprem, Jessica Musulin, Souro-
-dip Paul, Klaudia Maciejewska, Njuguna Macharia y Ruth Silcoff.
-
-#### Principales contribuyentes al Manual de CMUDE
-
-**»** Equipo de Adjudicación de CMUDE Perú 2019: Olivia Sundberg, Simón Martina, Ángela
-Parra, Ary Ferreira, Guillermo Serrano, Javier de la Puerta, y Nathania Engelhardt.
-
-**»** Equipo de Adjudicación de CMUDE Madrid 2020: Juanita Hincapié, Sabrin Yermak,
-Érika Silva, Valeria Hernández, Giovanni Begossi y Salma Infante.
-
-**»** Equipo de Adjudicación de CMUDE Ecuador 2021: Carmen Vallecillo, Rubén Sánchez,
-Mattias Durán, Fernanda Crousillat, Tito Ortiz, Daniel Lumbreras e Isabella Vázquez por
-la traducción inicial del Manual de Korea WUDC 2021.
-
-**»** Equipo de Adjudicación de CMUDE Madrid 2022: Marcela Gómez Valdés, Fabián
-Yaksic Muñoz, Bethany Garry, José Tipismana Arriola, Alejandro Bellanco Sánchez,
-Mauricio Jarufe Caballero y Fernando Contreras González.
-
-```
-» Agradecimiento especial a la Organización, el Comité de Equidad, y el Equipo de
-Marketing, Comunicación, Media y Diseño de CMUDE Madrid 2022 por sus impor-
-tantes aportaciones a este Manual.
-```
-**»** Equipo de Adjudicación de CMUDE Panamá 2023: Juanita Hincapié, Jorge Godos,
-Sebastián Dasso, Simon Luo, Fernanda Crousillat, Iván Rico, Adrián Duque y Klaudia
-Maciejewska.
-
-**»** Equipo de Adjudicación de CMUDE Medellín 2024: Simon Luo, Mauricio Jarufe, Betha-
-ny Garry, Natalia García, Joaquín Linares, Daniela Correa y Juanjo García.
-
-
-
-### Nota sobre el uso del lenguaje en el Manual
-
-En este Manual se utilizan los pronombres y artículos femeninos para
-hacer referencia a toda ‘persona’. Es decir, ‘la oradora’ se entiende
-como ‘la persona oradora’. Igualmente, se hará referencia directa a
-‘persona(s)’ en ciertos espacios. Esto tiene por objetivo incluir la diver-
-sidad de personas y géneros que existen en el circuito y en la socie-
-dad, más allá del contexto binario.
-
-
-
-
-
 ## Índice
 
-
 - Nota sobre la autoría del Manual Índice
-   - Lista abreviada de principales contribuyentes
-      - Principales contribuyentes al Manual de WUDC
-      - Principales contribuyentes al Manual de CMUDE
-   - Nota sobre el uso del lenguaje en el Manual
+  - Lista abreviada de principales contribuyentes
+    - Principales contribuyentes al Manual de WUDC
+    - Principales contribuyentes al Manual de CMUDE
+  - Nota sobre el uso del lenguaje en el Manual
 - Índice
 - Introducción: reglas y guías
 - 1. Reglas Centrales de Debate BP
-   - 1.1. Formato de debate BP
-      - Tabla 1.1 Equipos y roles de debate en Formato Parlamentario Británico
-   - 1.2. Duración de los discursos
-   - 1.3. Los roles de los equipos
-   - 1.4. Puntos de información (PdI)
-      - Consideración de los PdI al evaluar el engagement
-      - Interrupción de un PdI
-      - Barracking
-      - Aclaratorias o puntos de aclaración
-   - 1.5. Antes del debate
-      - La moción
-      - Información, contexto y definiciones complementarias a las mociones
-      - Tiempo de preparación
-      - Presentaciones y pronombres
-   - 1.6. Iron-person
-   - 1.7. Incumplimientos al orden DOMINICANA
-   - 1.8. Estructura del torneo
+  - 1.1. Formato de debate BP
+    - Tabla 1.1 Equipos y roles de debate en Formato Parlamentario Británico
+  - 1.2. Duración de los discursos
+  - 1.3. Los roles de los equipos
+  - 1.4. Puntos de información (PdI)
+    - Consideración de los PdI al evaluar el engagement
+    - Interrupción de un PdI
+    - Barracking
+    - Aclaratorias o puntos de aclaración
+  - 1.5. Antes del debate
+    - La moción
+    - Información, contexto y definiciones complementarias a las mociones
+    - Tiempo de preparación
+    - Presentaciones y pronombres
+  - 1.6. Iron-person
+  - 1.7. Incumplimientos al orden DOMINICANA
+  - 1.8. Estructura del torneo
 - 2. Debatir y Juzgar en CMUDE
-   - 2.1. Ganar un debate
-   - 2.2. La votante informada promedio
-      - Datos, conocimiento y lenguaje especializado
-      - Disposiciones
-      - Juzgar como una votante informada promedio
-   - 2.3. Persuasión
-      - Análisis
-      - Estilo
-   - 2.4. Contradicciones
-      - ¿Qué es una contradicción?
-      - Contradicciones dentro del mismo discurso o entre el mismo equipo
-      - Contradicciones entre equipos de la misma bancada
-      - Cómo los equipos deberían lidiar con contradicciones de la contraparte
-   - 2.5. Refutación, engagement y comparativas
-   - 2.6. Cargas de la prueba
-      - Evaluación de encuadres competitivos
-   - 2.7. Tipos de moción
-      - Mociones políticas
-         - Esta Casa [haría X] (EC haría X)
-         - ‘Esta Casa Considera Que [X] debería...’ (ECCQ [X] debería...)
-      - Mociones de análisis
-         - ‘Esta Casa Considera Que [X]’ (ECCQ)
-         - ‘Esta Casa Apoya / se Opone a [X]’
-         - ‘Esta Casa Prefiere [X]’(ECP)
-         - ‘Esta Casa Predice’ DOMINICANA
-         - ‘Esta Casa Espera’ (ECE)
-      - Mociones de lamentar y contrafácticos asociados
-         - ‘Esta Casa lamenta X’
-      - Mociones de actor
-         - ‘Esta Casa, siendo [A], haría [X]’ (EC, siendo [A], haría [X])
-      - Diferencias entre moción de actor y ECCQ está en el interés de X
-      - Mociones alternativas..........................................................................................................................
-   - 2.8. Fiat
-   - 2.9. Cumplimiento de rol
-   - 2.10. Definiciones y modelos
-      - Definiciones ardillas
-      - Definiciones vagas.................................................................................................................................
-      - Impugnar una definición
-      - Ampliación de la definición
-   - 2.11. Oponerse al debate
-      - Contrapropuesta (o contramedida)
-      - Alternativas
-   - 2.12. Discursos de VLO
-   - 2.13. Discursos de Extensionista - Extender el debate
-      - Acuchillamiento
-   - 2.14. Discursos de Látigo
-   - 2.15. Equidad
+  - 2.1. Ganar un debate
+  - 2.2. La votante informada promedio
+    - Datos, conocimiento y lenguaje especializado
+    - Disposiciones
+    - Juzgar como una votante informada promedio
+  - 2.3. Persuasión
+    - Análisis
+    - Estilo
+  - 2.4. Contradicciones
+    - ¿Qué es una contradicción?
+    - Contradicciones dentro del mismo discurso o entre el mismo equipo
+    - Contradicciones entre equipos de la misma bancada
+    - Cómo los equipos deberían lidiar con contradicciones de la contraparte
+  - 2.5. Refutación, engagement y comparativas
+  - 2.6. Cargas de la prueba
+    - Evaluación de encuadres competitivos
+  - 2.7. Tipos de moción
+    - Mociones políticas
+      - Esta Casa [haría X] (EC haría X)
+      - ‘Esta Casa Considera Que [X] debería...’ (ECCQ [X] debería...)
+    - Mociones de análisis
+      - ‘Esta Casa Considera Que [X]’ (ECCQ)
+      - ‘Esta Casa Apoya / se Opone a [X]’
+      - ‘Esta Casa Prefiere [X]’(ECP)
+      - ‘Esta Casa Predice’ DOMINICANA
+      - ‘Esta Casa Espera’ (ECE)
+    - Mociones de lamentar y contrafácticos asociados
+      - ‘Esta Casa lamenta X’
+    - Mociones de actor
+      - ‘Esta Casa, siendo [A], haría [X]’ (EC, siendo [A], haría [X])
+    - Diferencias entre moción de actor y ECCQ está en el interés de X
+    - Mociones alternativas..........................................................................................................................
+  - 2.8. Fiat
+  - 2.9. Cumplimiento de rol
+  - 2.10. Definiciones y modelos
+    - Definiciones ardillas
+    - Definiciones vagas.................................................................................................................................
+    - Impugnar una definición
+    - Ampliación de la definición
+  - 2.11. Oponerse al debate
+    - Contrapropuesta (o contramedida)
+    - Alternativas
+  - 2.12. Discursos de VLO
+  - 2.13. Discursos de Extensionista - Extender el debate
+    - Acuchillamiento
+  - 2.14. Discursos de Látigo
+  - 2.15. Equidad
 - 3. Notas adicionales para las juezas
-   - 3.1. Decidir los resultados
-   - 3.2. Panel de juezas
-      - Sistema de votación
-      - Juezas trainee o practicantes DOMINICANA
-   - 3.3. Gestionar la deliberación
-   - 3.4. Rellenar el ballot
-   - 3.5. Anunciar el resultado
-      - Estructura del feedback
-   - 3.6. Errores habituales que se deberían evitar al juzgar y dar feedback
-      - CENTRARSE EN GENERALIDADES EN VEZ DE ESPECIFICAR
-      - FALLAR EN JUZGAR LO SUCEDIDO EN EL DEBATE
-      - JUZGAR SIN CONOCIMIENTO DEL MANUAL................................................................................
-      - DAR PRIORIDAD A DETERMINADAS 'CLASES' DE ARGUMENTOS
-      - JUZGAR BASÁNDOSE EN EL CASTIGO
-      - JUZGAR LA FORMA EN LUGAR DEL CONTENIDO
-         - PARA ELLO LLEGAR RÁPIDAMENTE A UNA DECISIÓN Y LUEGO ENCONTRAR UNA JUSTIFICACIÓN
-   - 3.7. Feedback a las juezas
+  - 3.1. Decidir los resultados
+  - 3.2. Panel de juezas
+    - Sistema de votación
+    - Juezas trainee o practicantes DOMINICANA
+  - 3.3. Gestionar la deliberación
+  - 3.4. Rellenar el ballot
+  - 3.5. Anunciar el resultado
+    - Estructura del feedback
+  - 3.6. Errores habituales que se deberían evitar al juzgar y dar feedback
+    - CENTRARSE EN GENERALIDADES EN VEZ DE ESPECIFICAR
+    - FALLAR EN JUZGAR LO SUCEDIDO EN EL DEBATE
+    - JUZGAR SIN CONOCIMIENTO DEL MANUAL................................................................................
+    - DAR PRIORIDAD A DETERMINADAS 'CLASES' DE ARGUMENTOS
+    - JUZGAR BASÁNDOSE EN EL CASTIGO
+    - JUZGAR LA FORMA EN LUGAR DEL CONTENIDO
+      - PARA ELLO LLEGAR RÁPIDAMENTE A UNA DECISIÓN Y LUEGO ENCONTRAR UNA JUSTIFICACIÓN
+  - 3.7. Feedback a las juezas
 - Apéndice A: Tabla de oradoras
 - Apéndice B: Tablas de Feedback a juezas
-   - Tabla de Feedback a juezas principales
-   - Tabla de Feedback a juezas panelistas y trainee
+  - Tabla de Feedback a juezas principales
+  - Tabla de Feedback a juezas panelistas y trainee
 - Apéndice C: Glosario
-   - Abreviaciones
-      - Equipos
-      - Roles
-   - Definiciones y traducciones
-
-
+  - Abreviaciones
+    - Equipos
+    - Roles
+  - Definiciones y traducciones
 
 Este manual consta de tres capítulos; el primer capítulo explica los fundamentos y
 funcionamiento del formato Parlamentario Británico (BP por sus siglas en inglés) que
@@ -265,18 +139,19 @@ punto de información fuera de tiempo), o la omisión de consideración del mate
 
 ## Introducción: reglas y guías
 
-
 8 9
 
 ```
 ¹ Ejemplos añadidos por el Equipo de
 Adjudicación de CMUDE Madrid 2022.
 ```
+
 ```
 presentado como resultado del incumplimiento de una regla (p.e. no considerar el
 contenido de un punto de información presentado fuera de tiempo, o la información
 presentada pasados los quince segundos adicionales al tiempo total de un discurso)¹.
 ```
+
 ```
 En varios apartados del manual, no se hablará de reglas, sino de guías. Las guías
 son consejos generales sobre cómo tener éxito en debates. Por ejemplo, es razonable
@@ -292,6 +167,7 @@ que han redactado este manual para las debatientes y juezas y tienen la libertad
 seguir o abandonarlas como lo deseen, al igual que harían con las recomendaciones
 de una entrenadora.
 ```
+
 ```
 Fundamentalmente, al juzgar un debate un equipo nunca debería ser penalizado por
 no seguir las guías presentadas en este manual. En otras palabras, el panel de juezas
@@ -299,60 +175,62 @@ debe valorar qué tan persuasivos son los equipos de acuerdo con base en las reg
 presentadas en este manual, y no de acuerdo a qué tanto se apegan a las guías.
 ```
 
-
-
-
-
-
 # 1
-
 
 ```
 Bancado de Gobierno Bancada de Oposición
 ```
+
 ```
 Cámaras al-
 tas
 ```
+
 ```
 Cámara Alta de Gobierno
 (AG)
 ```
+
 - Primera Ministra (PM)
 - Vice primera Ministra
-(VPM)
+  (VPM)
 
 ```
 Cámara Alta de Oposición
 (AO)
 ```
+
 - Líder de Oposición (LO)
 - Vice líder de Oposición
-(VLO)
+  (VLO)
 
 ```
 Cámaras ba-
 jas
 ```
+
 ```
 Cámara Baja de Gobierno
 (BG)
 ```
+
 - Extensionista de Gobierno
-(EG)
+  (EG)
 - Látigo de Gobierno (LátG)
 
 ```
 Cámara Baja de Oposición
 (BO)
 ```
+
 - Extensionista de Oposición
-(EO)
+  (EO)
 - Látigo de Oposición (LátO)
 
 ```
 Fuente: elaboración propia con base en Debating and Judging Manual
 ```
+
 ### 1.1. Formato de debate BP
 
 En cada debate participarán cuatro equipos conformados por dos personas cada
@@ -365,7 +243,6 @@ Gobierno y Primera Oposición, mientras que los dos segundos equipos son referid
 como Cámaras Bajas o Segundo Gobierno y Segunda Oposición.
 
 #### Tabla 1.1 Equipos y roles de debate en Formato Parlamentario Británico
-
 
 **1**
 
@@ -387,35 +264,45 @@ como Cámaras Bajas o Segundo Gobierno y Segunda Oposición.
 fifl
 
 ```
+
 ```
 Las oradoras presentarán sus discursos en el siguiente orden:
 ```
+
 ```
 Primera oradora de Cámara Alta de Gobierno: Primera Ministra
 ```
+
 ```
 Primera oradora de Cámara Alta de Oposición: Líder de Oposición
 ```
+
 ```
 Segunda oradora de Cámara Alta de Oposición: Vice primera Ministra
 ```
+
 ```
 Segunda oradora de Cámara Alta de Oposición: Vice líder de Oposición
 ```
+
 ```
 Primera oradora de Cámara Baja Gobierno: Extensionista de Gobierno o Miem-
 bro de Gobierno
 ```
+
 ```
 Primera oradora de Cámara Baja de Oposición: Extensionista de Oposición o
 Miembro de Oposición
 ```
+
 ```
 Segunda oradora de Cámara Baja de Gobierno: Látigo de Gobierno
 ```
+
 ```
 Segunda oradora de Cámara Baja de Oposición: Látigo de Oposición
 ```
+
 El debate está dirigido por la ‘jueza principal’, que supervisa lo que ocurre durante el
 debate, hace acatar el reglamento y llama a cada debatiente para su discurso. En
 CMUDE, la jueza principal de cada debate será designada por el Equipo de Adjudi-
@@ -444,8 +331,6 @@ po, se aconseja utilizar tres pal-
 madas o golpes en la mesa. Si
 una oradora continúa hablando
 
-
-
 tras ocho minutos (lo que jamás debería ocurrir), la jueza principal debe llamar al
 orden y solicitar a la oradora que concluya su discurso y regrese a su asiento.
 
@@ -473,26 +358,28 @@ sus responsabilidades de manera efectiva:
 AG debería definir la moción, presentar argumentos a favor de su postura y
 refutar argumentos presentados por AO.
 ```
+
 ```
 AO debería refutar el caso presentado por AG (es decir, los argumentos
 generales que han expuesto) y presentar los argumentos constructivos que
 justifican la postura de la Oposición.
 ```
+
 ```
 BG debería extender el material propositivo y refutativo en favor de la postura
 de Gobierno. Esta extensión del material se entiende como análisis sustantivo,
 refutaciones, encuadre, caracterizaciones, o cualquier otro material argumen-
 tativo distinto en favor del caso de gobierno.
 ```
+
 ```
 BO debería extender el material propositivo y refutativo en favor de la postura
 de oposición. Esta extensión del material se entiende como análisis sustantivo,
 refutaciones, encuadre encuadre, caracterizaciones, o cualquier otro material
 argumentativo distinto en favor del caso de oposición.
 ```
+
 En la sección 2 de este Manual se profundizará en los roles de cada persona.
-
-
 
 ### 1.4. Puntos de información (PdI)
 
@@ -538,8 +425,6 @@ el chat y no son borrados, no podrán ser aceptados más allá del
 sexto minuto (esta acotación ha sido agregada por el Equipo de
 Adjudicación de CMUDE Ecuador 2021).
 
-
-
 Es potestad de la oradora que está hablando decidir si acepta o no el PdI que se
 le ofrece. Además, si una debatiente expone varias preguntas en su PdI, la oradora
 podrá decidir contestar solo a la primera de las preguntas, o elegir responder la pre-
@@ -552,11 +437,11 @@ ejemplo:
 
 - Exigir que ciertas oradoras o equipos dejen de ofrecer PdI.
 - Decir que solo tomarán un PdI de un equipo específico (por ejemplo, el PM dice que
-solo tomarán un PdI desde BO).
+  solo tomarán un PdI desde BO).
 - Pedir a las oradoras o equipos que solo soliciten PdI en un momento específico (por
-ejemplo, después del quinto minuto).
+  ejemplo, después del quinto minuto).
 - Pedir a las oradoras o equipos que soliciten PdI no verbales (por ejemplo, solo pre-
-gunte levantando la mano).
+  gunte levantando la mano).
 
 Sin embargo, esto no debería tener efecto alguno en las decisiones de las juezas o
 el resto de debatientes: cualquier debatiente tiene el derecho, siguiendo los tiempos
@@ -576,7 +461,6 @@ po de Adjudicación de CMUDE Madrid 2022 con el objetivo
 de permitir una mayor claridad. Pese a la reestructuración, el
 contenido se mantiene fiel a lo presentado en WUDC Debating
 & Judging Manual.
-
 
 #### Consideración de los PdI al evaluar el engagement
 
@@ -622,8 +506,6 @@ structivo o refutativo en el resto del debate.
 Interrumpir a una oradora que está ofreciendo un punto de información es conocido
 como ‘cortar un punto de información’. Los PdI pueden durar hasta quince segundos,
 
-
-
 una vez transcurrido este tiempo está justificado ‘cortar el PdI’ y continuar con el dis-
 curso que se está presentando. Si los quince segundos permitidos para presentar un
 PdI han transcurrido o si un punto de información ha sido cortado, quien lo estaba
@@ -666,7 +548,6 @@ el Comité de Equidad.^5
 (^5) Párrafo añadido por el Equipo de Adjudicación de CMUDE Madrid 2022 en
 colaboración con el Comité de Equidad del Consejo Mundial.
 
-
 #### Aclaratorias o puntos de aclaración
 
 ```
@@ -682,11 +563,13 @@ las aclaratorias no tienen un estatus especial en el regla-
 mento, simplemente se permite que las oradoras utilicen un
 fraseo especial para solicitar estos PdI.
 ```
+
 ```
 Una aclaratoria solo debería ser utilizada para aclarar
 aspectos del modelo. Los puntos de aclaración no deberían
 ser usados como forma de solicitar PdI.
 ```
+
 ### 1.5. Antes del debate
 
 #### La moción
@@ -716,6 +599,7 @@ cación que cumple con diversas funciones, desde aclarar palabras en la moción
 hasta presentar contexto e información relevante sobre posibles temas de impor-
 tancia para el debate.
 ```
+
 ```
 La información presentada en la infoslide debe ser asumida como verdadera para
 los propósitos del debate. Por ejemplo, si la información es presentada en forma
@@ -724,6 +608,7 @@ debate. Sin embargo, los equipos tienen la libertad de analizar con mayor profun
 didad algunos conceptos sin que éstos contradigan el infoslide, presentar defini-
 ciones adicionales, aclaraciones o contextualizaciones durante el debate.
 ```
+
 #### Tiempo de preparación
 
 ```
@@ -739,6 +624,7 @@ del torneo^6. Los equipos no deberían, bajo ninguna circunstania, usar internet
 hacer investigación en relación a la moción o comunicarse con cualquier persona
 que no sea el Equipo de Adjudicación, el Comité de Equidad, la Organización^7 , o su
 ```
+
 (^6) Esperamos que ningún equipo incumpla estas prohibiciones. Sin embargo, si eres una jueza o debatiente y eres testigo de
 una debatiente preparando con una persona diferente a su pareja, o utilizando dispositivos electrónicos de forma ilegítima,
 deberías reportar esto a cualquier persona del Equipo de Adjudicación; en caso de no estar disponibles, a cualquier jueza
@@ -752,7 +638,6 @@ la ronda concluya.
 información respecto a la ubicación de las salas, solicitar apoyo para controlar el nivel de ruido en un espacio, o solicitar que
 las personas que no son parte del equipo de Primer Gobierno evacúen una sala.
 
-
 ```
 pareja. Sin embargo, está permitido utilizar dispositivos electrónicos para llevar el
 control del tiempo, o para consultar imágenes del draw , la moción o el infoslide.
@@ -763,11 +648,13 @@ hay excepciones a esta regla, a menos de contar con la autorización previa del 
 po de Equidad y que esta haya sido aprobada por el Equipo de Adjudicación debido
 a situaciones especiales.^8
 ```
+
 ```
 Durante los quince minutos de preparación, AG puede utilizar la sala en la que se
 llevará a cabo el debate para preparar. El resto de equipos, observadores y juezas
 no debería entrar a la sala hasta que el tiempo de preparación concluya.
 ```
+
 ```
 Las personas juezas deben llamar a las debatientes a la sala de debate 15 minu-
 tos después de que se anuncie la moción. Los equipos deberán estar prepara-
@@ -785,6 +672,7 @@ debate o no. Por otro lado, si el equipo incompleto no apareciera en este tiem-
 po, la persona jueza principal deberá comunicarle al Equipo de Adjudicación o
 Tabulación que éste será iron-person.
 ```
+
 ```
 Una vez que el equipo swing solicitado ha llegado a la sala y el debate ha iniciado,
 el equipo sustituido no tiene permitido participar en la ronda, y no recibe puntos
@@ -797,16 +685,17 @@ cación debe de confirmar que no hubo forma de conse-
 guir un equipo swing, y por consecuencia, el equipo que
 faltó se considerará de cuarto lugar.
 ```
+
 ```
 20
 ```
+
 (^8) Para evitar cualquier duda, esta autorización no incluye el uso de documen-
 tos digitales o de comunicación en línea como es el caso de Google Docs.
 (^9) En algunos países latinoamericanos también se conoce como perder por
 W, haciendo referencia al término deportivo Walkover que se refiere a perder
 una justa deportiva por inasistencia. Esto significa que el equipo ocupará el
 cuarto lugar en la ballot y su promedio como persona se vería afectado.
-
 
 **Presentaciones y**
 
@@ -829,6 +718,7 @@ identifican, si así lo desean. Es completamente válido si alguien no quiere in
 car un pronombre, en dicho caso, las demás personas deberían usar lenguaje
 neutro para referirse a la persona en cuestión’.
 ```
+
 Consecuentemente, si una persona no siente comodidad indicando su pronombre de
 género o no se identifica con un pronombre de género, puede únicamente indicar su
 nombre y posición en el debate.
@@ -839,6 +729,7 @@ la siguiente:
 ```
 ‘Hola, mi nombre es ... y mi pronombre de género es ...’
 ```
+
 Al presentar a cada oradora, la jueza principal puede recordar a la sala los pronom-
 bres de género con los que dicha persona se identifica, en caso de que hayan sido
 mencionados. Por ejemplo, la jueza puede decir:
@@ -846,6 +737,7 @@ mencionados. Por ejemplo, la jueza puede decir:
 ```
 ‘Ahora escucharemos a EG, ... quien utiliza pronombres de género ...’
 ```
+
 Todas las participantes deberían tomar nota del pronombre de cada oradora y uti-
 lizar dicho pronombre para referirse a ellas, en caso de haber mencionado alguno. **En
 ningún caso se debe asumir el pronombre de género de una persona.**
@@ -858,7 +750,6 @@ tos de Equidad.
 Si una debatiente o jueza no indica un pronombre de género con el que se identifica,
 el resto de participantes deberían utilizar lenguaje neutro para referirse a ella, por
 ejemplo, ‘persona oradora’, ‘persona jueza’, ‘panel’.
-
 
 Si un equipo swing o un equipo que entró tarde a la ronda no estuvo presente durante
 las presentaciones y pronombres de las oradoras, deberá referirse al resto de partici-
@@ -904,8 +795,6 @@ los cambios constitucionales propuestos por el Equipo de Adjudicación CMUDE 202
 (^11) Se permite que sea un máximo de 3 rondas preliminares porque equivalen a la tercera parte de rondas preliminares con las que
 cuenta el torneo. Esta aclaración es presentada por el Equipo de Adjudicación de CMUDE Madrid 2022.
 
-
-
 ### 1.7. Incumplimientos al orden DOMINICANA
 
 Para que el debate pueda llevarse a cabo de forma correcta y todas las oradoras
@@ -917,38 +806,46 @@ continuación se consideran disruptivas:
 ```
 barracking;
 ```
+
 ```
 continuar con un PdI que ha sido interrumpido por
 la oradora que está presentando su discurso o por
 la jueza principal;
 ```
+
 ```
 solicitar un PdI de cualquier forma diferente a las
 descritas en la Sección 1.4;
 ```
+
 ```
 continuar hablando una vez concluidos los
 siete minutos y quince segundos permitidos para
 concluir;
 ```
+
 ```
 realizar cualquier otra actividad que pueda
 distraer a las participantes;
 ```
+
 ```
 utilizar apoyo visual (p.e. objetos, diagramas,
 etc.);
 ```
+
 ```
 durante el discurso de otra oradora, hablar en un
 tono de voz que dificulte o impida la comprensión
 del discurso que se está exponiendo.^12
 ```
+
 ```
 recibir cualquier comunicación externa durante
 un discurso dado (p.e. notas de su pareja a la
 oradora)
 ```
+
 Estas no son actividades que únicamente rompen las reglas e incumplen con los
 parámetros de conducta apropiada, sino que además son incumplimientos al orden.
 A diferencia de otros incumplimientos a las reglas (que únicamente afectan la posib-
@@ -963,8 +860,6 @@ ayuda o presencia en la sala.**
 (^12) Sección añadida por el Equipo de Adjudicación de CMUDE Ecua-
 dor 2021 y modificada por el Equipo de Adjudicación de CMUDE
 Madrid 2022.
-
-
 
 **Llamar a la restitución del orden**
 
@@ -1007,7 +902,6 @@ de volver a empezar su discurso, y se reiniciará el control de tiempo.^13
 de Adjudicación de CMUDE Ecuador 2021 y modificada por el
 Equipo de Adjudicación de CMUDE Madrid 2022.
 
-
 ### 1.8. Estructura del torneo
 
 El Campeonato Mundial Universitario de Debate en Español está estructurado en dos
@@ -1036,13 +930,11 @@ las diferentes categorías, un equipo elegible a más de un break debe decidir e
 categoría quiere competir. Los equipos compiten por ser Campeones Mundiales de la
 categoría para la que son elegibles.
 
-
 ## Debatir y Juzgar
 
 ## en CMUDE
 
 # 2
-
 
 **1**
 
@@ -1052,6 +944,7 @@ categoría para la que son elegibles.
 fifl
 
 ```
+
 ### 2.1. Ganar un debate
 
 Todos los equipos en un debate tienen como objetivo ganarlo. Tanto para las debati-
@@ -1069,6 +962,7 @@ Una persona podría presentarse en un debate y ser persuasiva sobre cualqui-
 er cosa, pero esto no ayudará a que gane un debate a menos que lo que se
 diga sea relevante para las cargas que los equipos están buscando probar.
 ```
+
 ```
 Las reglas de debate limitan las formas legítimas de ser persuasiva. Por ejem-
 plo, en la ausencia de reglas, la Látigo a menudo podría ser muy persuasiva al
@@ -1076,6 +970,7 @@ introducir argumentos completamente nuevos, pero las reglas prohíben esto.
 Por tanto, los elementos de un discurso sólo pueden ayudar a un equipo a
 ganar una ronda si son persuasivos y cumplen con las reglas.
 ```
+
 ### 2.2. La votante informada promedio
 
 En la mayoría de ámbitos de la vida, la capacidad de persuasión es altamente sub-
@@ -1092,8 +987,6 @@ persuasión de los discursos de acuerdo con un conjunto de criterios de evaluaci
 en lugar de sus propios puntos de vista sobre el tema en cuestión. Particularmente, se
 pide a las juezas que se conciban a sí mismas como si fuesen una hipotética ‘votante
 informada promedio’ (a veces también denominada ‘ciudadana global informada’).
-
-
 
 #### Datos, conocimiento y lenguaje especializado
 
@@ -1136,8 +1029,6 @@ gentes. De forma similar, el uso de términos como ‘eficiencia económica’ r
 que sean entendidos únicamente al nivel en el que una persona que carece de cono-
 cimiento especializado lo haría, perdiendo cualquier especificidad técnica. Las juezas
 
-
-
 deberían juzgar de acuerdo con lo anterior, y las oradoras que deseen hacer uso del
 conocimiento especializado que un concepto implica deben tomarse el tiempo de
 explicar las connotaciones del término en cuestión.
@@ -1159,8 +1050,6 @@ endo argumentos sofisticados) que se le presentan; y se atiene al material prese
 tado a menos que este contradiga evidentemente el conocimiento común o sea
 extremadamente improbable.
 
-
-
 #### Juzgar como una votante informada promedio
 
 Como se puede intuir a partir de los párrafos anteriores, la votante informada prome-
@@ -1174,6 +1063,7 @@ concepto se usa para describir que las juezas deben:
 Ser conscientes de datos básicos sobre el mundo. Por ejemplo, se considera
 conocimiento básico saber que ‘Siria se encuentra en Medio Oriente’);
 ```
+
 ```
 Estar familiarizadas con asuntos y eventos que se han presentado en titulares
 internacionales de forma sostenida en el tiempo. Por ejemplo, las juezas
@@ -1188,32 +1078,37 @@ de noticias internacionales (p.e. se espera que las personas juezas sepan
 que China abolió su política que obligaba a sus ciudadanas a tener como
 máximo una persona de su descendencia).
 ```
+
 ```
 Evitar el uso de conocimiento especializado que tengan sobre un tema, a
 menos que se pueda asumir de forma razonable que alguien que cumpla
 con los dos criterios previamente mencionados podría tenerlo;
 ```
+
 ```
 Dar poco crédito a simples apelaciones a la emoción o a la autoridad, a
 menos que éstas tengan una influencia racional en un argumento;
 ```
+
 ```
 Evitar suponer un contexto geográfico, cultural, nacional, étnico o de otro tipo
 al evaluar argumentos;
 ```
+
 ```
 Evitar dar preferencia a argumentos o estilos de debate que coincidan con
 sus preferencias personales;
 ```
+
 ```
 Evaluar los méritos de una medida, solución o problema de forma aislada a
 cualquier perspectiva propia sobre los mismos.
 ```
+
 Esto no implica que las oradoras no puedan hacer aseveraciones complejas basán-
 dose en su conocimiento especializado ni que las juezas no puedan ser convencidas
 por dichas aseveraciones. Mientras que debe asumirse que las juezas tienen cono-
 cimiento general sobre diversos temas, también deberían ser totalmente capaces de
-
 
 seguir y analizar de forma lógica un debate, así como entender conceptos complejos
 que son bien explicados. Si los equipos desean utilizar conocimiento especializado en
@@ -1264,8 +1159,6 @@ te de las personas juezas.
 (^14) La traducción de esta sección ha sido reformulada por el Equipo de Adjudicación de CMUDE Madrid 2022
 con el objetivo de ser fiel al documento original, al mismo tiempo que ser clara en la redacción en español.
 
-
-
 #### Análisis
 
 El análisis que sustenta a un argumento consiste en las razones
@@ -1306,8 +1199,6 @@ entre ellos se encuentra los siguientes:
 **-** el número de argumentos que presenta una oradora;
 **-** qué tan inteligente innovador o interesante fue el argumento;
 **-** argumentos de los que se tenía una noción, pero que no fueron desarrollados.
-
-
 
 Lo que importa, una vez que un argumento ha sido desarrollado, es qué tan relevante
 es su impacto en relación a las cargas de prueba que cada bancada está tratando
@@ -1353,7 +1244,6 @@ oradoras que hablan cualquier idioma, pero CMUDE es inevitablemente una compe-
 tencia basada en el lenguaje español. Si las juezas no pueden, pese a sus mayores
 esfuerzos, entender un argumento, no lo pueden encontrar persuasivo.
 
-
 ##### A
 
 ##### B
@@ -1393,6 +1283,7 @@ en la que una oradora transmita sus razones, más persuasiva será.
 Transmiten de forma efectiva las implicaciones emocionales,
 morales, prácticas o de otra naturaleza de una afirmación
 ```
+
 La pregunta fundamental que una jueza debe hacerse sobre este punto es la sigui-
 ente: ‘¿Hay información adicional transmitida a través de la elección de este estilo?’
 Si la respuesta es afirmativa, entonces el uso de la retórica ha ampliado el efecto
@@ -1402,7 +1293,6 @@ transmitir el significado del análisis lógico, y no debería tener crédito po
 argumento más persuasivo. Las caracterizaciones adicionales, ejemplificaciones y
 encuadres o _framings_ que enfatizan la lógica presentada, pueden contribuir a la per-
 suasión de un argumento.
-
 
 La elección de palabras, fraseos, la complejidad del lenguaje, la entonación y otras
 elecciones de estilo no deben tener crédito de forma aislada. Solo deben tener crédito
@@ -1424,8 +1314,6 @@ de un punto.
 Para recalcar: los argumentos no pueden ser considerados como persuasivos solo
 porque son presentados con un buen estilo. Más bien, el estilo y el análisis deben tra-
 bajar en conjunto para hacer que un argumento sea persuasivo.
-
-
 
 ### 2.4. Contradicciones
 
@@ -1467,8 +1355,6 @@ ita sus propios puntos y debería ser considerado durante la deliberación cuand
 determine cuán plausible es el argumento, de forma similar a una situación en la que
 un equipo rival ofreciera esos argumentos como refutación. Es decir, mientras que el
 
-
-
 material contradictorio debería ser descartado, las juezas deberían evaluar cómo la
 contradicción afectó a la persuasividad de la primera afirmación. Sin embargo, las
 oradoras del equipo contrario no deberían recibir crédito por parte de las juezas a
@@ -1488,11 +1374,13 @@ su primer argumento, desarrolla extensamente como la amenaza del crimen
 es latente, por lo que la negociación es imperante. Lideresa de Oposición seña-
 la que existe una contradicción.
 ```
+
 ```
 El panel debe considerar que no existe una contradicción en el mismo discurso,
 dado que la primera afirmación presentada por la PM fue una frase pre-argu-
 mentativa y no un mecanismo.
 ```
+
 ```
 Ejemplo 2: ‘EC negociaría un alto al fuego con las pandillas a cambio de que
 estas se encarguen de la provisión de servicios básicos (p.e. salud, vivienda)‘.
@@ -1504,12 +1392,12 @@ que las pandillas, por lo que no está en condiciones de exigirles nada en una
 negociación. Extensionista de Gobierno señala que existe una contradicción en
 CAO.
 ```
+
 ```
 El panel debe considerar que EG está en lo cierto: el análisis de VLO directa-
 mente contradice una premisa central del material de LO, por lo que este mate-
 rial debe descartarse, y la primera afirmación puede perder cierta persuasión.
 ```
-
 
 #### Contradicciones entre equipos de la misma bancada
 
@@ -1542,6 +1430,7 @@ po o profundidad de conocimiento suficiente para comprender la realidad económi
 al detalle y reaccionará con temor y cierta paranoia ante información 'crítica'. Luego,
 AG explica los daños exclusivos de esto.
 ```
+
 ```
 El siguiente cuadro ofrece un estudio de caso sobre contradicciones que podrían exist-
 ir con su cámara alta:
@@ -1568,6 +1457,7 @@ el caso de mi alta.
 ```
 No existe contradicción
 ```
+
 ```
 El contenido sigue líneas lógicas con-
 sistentes con el análisis de su Cámara
@@ -1577,6 +1467,7 @@ deberán ser tomadas en cuenta y
 evaluadas en comparativa a las pro-
 puestas por su Cámara Alta.
 ```
+
 Traemos dos extensiones:
 
 **1.** Una persona promedio no es
@@ -1596,6 +1487,7 @@ inestabilidad.
 Contradicción parcial a su
 cámara alta.
 ```
+
 ```
 El panel de juezas debe considerar
 que la primera extensión contradice
@@ -1610,6 +1502,7 @@ ese sentido, el material que dependa
 de esta caracterización debería ser
 ignorado por el panel en el debate.
 ```
+
 La persona promedio puede
 fácilmente entender los matices
 de la información económica
@@ -1623,6 +1516,7 @@ materia le permiten entenderla.
 Contradicción total a su
 cámara alta.
 ```
+
 ```
 Los equipos de cámaras bajas no
 deberían hacer esto.
@@ -1672,7 +1566,6 @@ tos a los que no se haya respondido tengan un efecto particular en la evaluació
 AG en este caso. Las juezas deben considerar la importancia de un argumento para
 decidir cómo afecta la posición de los equipos en el debate.
 
-
 Si un argumento es claramente absurdo (de modo que no se puede concebir que una
 votante informada promedio crea en su lógica y/o sus premisas), o es de importancia
 marginal para el discurso de la oradora que lo presenta, entonces es razonable que
@@ -1713,7 +1606,6 @@ entre AO y BG)
 **-** cuando Látigo explica algo de una forma diferente a su extensionista;
 **-** cuando no se le conceden puntos de información a las Cámaras Altas;
 
-
 En dichas circunstancias, las juezas se ven forzadas a realizar una evaluación inde-
 pendiente de los argumentos que se han expuesto. Las juezas no solo deberán valorar
 qué argumentos fueron más importantes, sino también cuáles fueron probados de
@@ -1747,7 +1639,6 @@ no proporciona una justificación explícita, no deben ser sancionados. Se esper
 las personas juezas que sopesen independientemente los argumentos al decidir qué
 equipo de cámara alta o baja gana. Para obtener más detalles sobre ponderaciones,
 consulte el numeral 2.6 sobre la ponderación de encuadres competitivos.
-
 
 ### 2.6. Cargas de la prueba
 
@@ -1794,7 +1685,6 @@ para valorar la ilegitimidad. Esta carga es especialmente fuerte si VPM acepta q
 asesinato es ilegal, pero argumenta que la ilegalidad es una base insuficiente para
 considerar que un acto es ilegítimo. A menos que los equipos de Oposición brinden
 
-
 **1**
 
 **3**
@@ -1806,6 +1696,7 @@ considerar que un acto es ilegítimo. A menos que los equipos de Oposición brin
 ```
 44
 ```
+
 ```
 razones mejores para pensar que la ilegalidad de un acto según el derecho interna-
 cional es una razón para considerarlo ilegítimo, simplemente señalar que el asesinato
@@ -1816,6 +1707,7 @@ están en desacuerdo ahora son las implicaciones que esto tiene para la legitimi
 del asesinato como herramienta de política exterior, y es esto lo que tienen como
 carga probatoria.
 ```
+
 #### Evaluación de encuadres competitivos
 
 ```
@@ -1826,23 +1718,27 @@ contención de encuadres se denomina como ‘encuadres competitivos’. Esto qui
 decir que está permitido que, al argumentar si una política es buena o no, los equipos
 debatan sobre qué criterios deben utilizarse para evaluar dicha política.
 ```
+
 ```
 Las juezas deben evaluar este debate sobre los criterios, por lo que no deberían sim-
 plemente aplicar sus criterios preferidos. Los criterios se deben evaluar con base en
 los siguientes puntos:
 ```
+
 ```
 ¿Hay algún criterio o principio cuya importancia y veracidad acuerden todos los
 equipos de forma explícita? Por ejemplo, todos los equipos acuerdan explícita-
 mente que su objetivo es salvar la mayor cantidad de vidas, y el debate es sobre
 la mejor manera de lograrlo.
 ```
+
 ```
 Si no es así, ¿hay un criterio o principio cuya importancia y veracidad acuerdan
 todos los equipos de forma implícita? Por ejemplo, a pesar de que ningún equipo
 expresa explícitamente que su objetivo es salvar la mayor cantidad de vidas, todo
 el análisis presentado apunta hacia ello.
 ```
+
 ```
 De no ser así, ¿algún equipo ha demostrado de forma efectiva la importancia y
 veracidad de un criterio o principio? Por ejemplo, si ningún equipo está de acuerdo
@@ -1850,18 +1746,18 @@ con un criterio y todos los equipos han presentado diferentes métricas, ¿qué 
 ha presentado las mejores razones para creer que su métrica es la más impor-
 tante del debate?
 ```
+
 ```
 Cuando ninguno de estos escenarios se aplique, se debe juzgar con base en lo que
 la votante informada promedio consideraría importante. Esto debería ser exclusiv-
 amente una medida de último recurso, dado que es sumamente raro que ninguno
 de los escenarios mencionados previamente se aplique.
 ```
+
 (^15) Esta sección fue añadida por el Equipo de Adjudicación de CMUDE Ecuador 2021 bajo el título ‘Valorando dis-
 tintas métricas’; posteriormente el Equipo de Adjudicación de CMUDE Madrid 2022 ha modificado el título a fin
 de tener mayor precisión. Asimismo, la traducción de esta sección se ha actualizado con el objetivo de alcanzar
 mayores niveles de claridad, y se han añadido diversos párrafos.
-
-
 
 Por otro lado, si una Cámara Baja quiere realizar un cambio de métrica, debe intentar
 hacer el mayor _engagement_ posible con las Cámaras Altas. Esto puede hacerse a
@@ -1882,6 +1778,7 @@ clase media y clase obrera dado que son quienes más demuestran “traba-
 jar duro”. Sobre los actores que imponen la narrativa, AO solo menciona que
 estos no tienen incentivos para demonizar a las clases populares.
 ```
+
 ```
 En este caso, al analizar la comparativa de cámaras altas, es importante
 reconocer los puntos de encuadre y caracterización en los que ambos equi-
@@ -1896,6 +1793,7 @@ que los impactos de Gobierno dependen de incentivos negativos de quienes
 impulsan la narrativa, y es labor del panel preguntarse si eso es cierto en el
 debate.
 ```
+
 ```
 Ejemplo 2: En la moción ‘EC prohibiría ChatGPT’, Alta de Gobierno presupone
 que las grandes corporaciones tienen incentivos para afectar significativa-
@@ -1904,12 +1802,12 @@ Oposición explica cómo los incentivos de ganancias de las grandes corpo-
 raciones que trabajan con ChatGPT les llevará a proteger distintos derechos
 y protegerse de distintos daños colaterales.
 ```
+
 ```
 En este caso, el panel de juez debería identificar que los equipos están de
 ```
+
 (^16) Este párrafo ha sido añadido por el Equipo de Adjudicación de CMUDE Madrid 2022.
-
-
 
 ```
 acuerdo tanto en que 1) los riesgos de malas prácticas de ChatGPT deben ser
@@ -1923,6 +1821,7 @@ el debate. De esta forma, ambos equipos comparten parcialmente el mismo
 encuadre, pero en la presencia de dos potenciales análisis competitivos, el
 panel debe hacer un análisis profundo que compare ambos en el debate.
 ```
+
 Un error común al evaluar encuadres en contención es asumir un encuadre utilitarista
 (‘lo que resulta en mejores consecuencias prácticas’). Este encuadre no debe asum-
 irse como el más importante sin que un equipo presente argumentos que prueben su
@@ -1953,8 +1852,6 @@ deben necesariamente adjudicarse utilizando un único criterio o principio. Incl
 un equipo probase que ese criterio es el mejor, en ciertos casos, las comparativas del
 resto de equipos entre sí no deberían adjudicarse con base en ese criterio o principio.
 Por ejemplo, en la moción ‘EC prohibiría los cigarrillos’, las Cámaras Altas enfocan su
-
-
 
 debate en los beneficios y daños económicos para los Estados, mencionando de for-
 ma superficial cuestiones de principios. BG explica de manera efectiva la importancia
@@ -1995,8 +1892,6 @@ mente, que ‘los políticos nunca aprobarían esta ley’.
 
 (^17) Este párrafo ha sido añadido por el Equipo de
 Adjudicación de CMUDE Madrid 2022.
-
-
 
 Por ejemplo, en la moción ‘EC prohibiría los cigarrillos’, el debate debe asumir que
 los equipos de Gobierno tienen el poder de implementar dicha política y que, por lo
@@ -2044,8 +1939,6 @@ posible que los equipos debatan los méritos y deméritos de las sanciones en ab
 to, el debate se haría mucho más claro si los equipos de Gobierno presentaran un
 modelo describiendo qué implican las sanciones, qué tipos de sanciones se imple-
 
-
-
 mentarían, entre otras cosas. De forma similar a las mociones políticas, Oposición
 también puede proponer una alternativa (ver sección 2.11 sobre contrapropuestas).
 Estas mociones no deben confundirse con las **mociones de actor,** que se analizan en
@@ -2086,8 +1979,6 @@ en su totalidad, sin seleccionar o elegir a qué se oponen. **Los equipos de Gob
 no pueden apoyar solamente los aspectos favorables de la intervención estadoun-
 idense en Medio Oriente; asimismo, los equipos de Oposición no pueden oponerse
 únicamente a los aspectos desfavorables de dicha intervención.**
-
-
 
 En segundo lugar, Gobierno no puede modelar cómo ocurrirá la intervención. Pueden
 argumentar que la intervención estadounidense **probablemente** sucedería de una
@@ -2135,8 +2026,6 @@ trafácticos en las mociones de ‘Esta Casa lamenta’ (véase más adelante).
 Como estos debates requieren la conceptualización de un mundo alternativo, los
 argumentos acerca de la transición entre el _status quo_ y el mundo alternativo son
 
-
-
 inadmisibles. Por ejemplo, en la moción anterior, los equipos no deberían discutir el
 _backlash_ (respuesta negativa) de la caída de las religiones organizadas, ya que la
 nunca habrían existido en ese mundo alternativo.
@@ -2183,8 +2072,6 @@ Las personas miembros de los equipos de adjudicación no deben utilizar la abrev
 tura "ECP" para este tipo de moción porque se presume que "ECP" se refiere a **"Esta
 Casa Prefiere...".**
 
-
-
 ##### ‘Esta Casa Espera’ (ECE)
 
 Las mociones que comienzan con **“Esta Casa Espera [X]”** piden a los equipos que
@@ -2220,14 +2107,12 @@ nativo que se habría desarrollado sin que X existiera. Esto también se conoce 
 como candidata demócrata’,** los equipos no pueden simplemente debatir los méri-
 tos o desventajas de Biden como candidato demócrata. En cambio, deberían evaluar
 quiénes podrían haber sido las nominadas demócratas alternativas y si estas hab-
-rían conducido a mejores o peores resultados que en el _status quo_^19_._
+rían conducido a mejores o peores resultados que en el _status quo_^19*.*
 
 (^18) Esta sección ha sido ampliada por el Equipo de Adjudicación de CMUDE Ecuador 2021
 y significativamente modificada por el Equipo de Adjudicación de CMUDE Madrid 2022.
 (^19) Este párrafo es una traducción fiel en contenido al párrafo original de WUDC _Debating
 & Judging Manual._
-
-
 
 Un contrafáctico no solamente debe ser presentado, sino que también debe contar
 con un análisis de probabilidad, es decir, se debe demostrar que el mundo alternativo
@@ -2272,8 +2157,6 @@ comprobatorio;
 ciones utilizando como base el contrafáctico propuesto por AG;
 **-** cuando el contrafáctico de AG no sea mutuamente excluyente a lo que se se
 lamenta en la moción.
-
-
 
 Finalmente, si AG presenta dos contrafácticos que son mutuamente excluyentes, sólo
 se deberá considerar como válido para las comparativas aquel que fue presentado
@@ -2320,7 +2203,6 @@ a su hija a una escuela privada’,** el debate debe tener lugar desde la perspe
 un padre o madre, ya que es el agente propuesto para tomar una decisión sobre la
 educación de su hijo y el objetivo propuesto hacia el que deben apuntar los argu-
 
-
 mentos. Por el contrario, en la moción **‘ECCQ los padres / madres no deben enviar
 a sus hijas a escuelas privadas’,** la moción no se lleva a cabo únicamente desde la
 perspectiva de los padres. En ese caso, las debatientes deben tratar de convencer a
@@ -2350,6 +2232,7 @@ dicho organismo en particular; su agenda, planes y programas; composiciones,
 convicciones o aspiraciones políticas, etc.; es decir, considerando que están
 integrados por personas o grupos con mandatos temporales.
 ```
+
 ```
 En aquellos casos en que el actor no está especificado, sino que se apela a un
 país o institución en general (p.e. la ONU, la Unión Europea, Estados Unidos, Rusia,
@@ -2359,6 +2242,7 @@ espera un debate en el que se analicen los valores y principios que caracteri-
 zan dicha institución; los intereses generales de la población que representa; su
 política exterior, soberanía, legislación; su capacidad institucional, etc.
 ```
+
 ```
 En conclusión, si una moción cuenta con un actor específico, se espera un debate
 que se concentre principalmente en un análisis desde la visión de la(s) per-
@@ -2366,7 +2250,6 @@ sona(s) que componen el órgano; mientras que si la moción presenta un actor
 general, se espera un debate que se concentre principalmente en una análisis
 desde la visión íntegra del actor en general.
 ```
-
 
 Una moción fraseada **‘EC haría [X]’** debe ser tratada como una moción de actor
 si contiene una Infoslide describiendo la perspectiva del actor (esta comúnmente
@@ -2406,8 +2289,6 @@ perspectiva difieran levemente de los intereses del actor desde la perspectiva d
 observador neutral. Por ejemplo, esto se puede dar en circunstancias donde el obser-
 vador neutral tiene información adicional con la que no cuenta y a la que razonable-
 mente no puede acceder el actor.
-
-
 
 #### Mociones alternativas..........................................................................................................................
 
@@ -2449,8 +2330,6 @@ tativo. En paralelo, Alta de Oposición tiene acceso a la misma cantidad de recu
 para crear una contrapropuesta que busque solucionar el problema del debate de
 modo distinto. Podría, en este caso, usar los recursos que tiene Gobierno para generar
 incentivos y pagos a los estados para aceptar a los Rohingya y otorgarles la nacio-
-
-
 
 nalidad, y usar el restante para apoyo humanitario o logístico. Sin embargo, una con-
 trapropuesta que sea “darles un estado y además financiar nuevos partidos políticos
@@ -2499,7 +2378,6 @@ traria a la pena de muerte.
 
 Continuando con los ejemplos, en la moción “EC, como la ONU, invadiría militarmente
 
-
 a Sudán” Alta de Gobierno modela que las fuerzas militares de la ONU sólo serán las
 fuerzas élites de Estados Unidos y los países occidentales con mayor poderío militar.
 En ese caso, Alta de Oposición podría impugnar ese modelo al justificar que no es
@@ -2538,28 +2416,31 @@ en cuarto lugar a un equipo.
 
 Las responsabilidades asociadas con el cumplimiento de roles son los siguientes:
 
-
-
 ```
 PM debería garantizar que el debate esté adecuadamente definido (ver sección
 2.10);
 ```
+
 ```
 ambas extensionistas deberían extender el debate (ver sección 2.10);
 ```
+
 ```
 todas las oradoras deberían asegurarse de que sus argumentos sean con-
 sistentes con todos los otros argumentos hechos por ellas mismas, sus com-
 pañeras de equipo y el otro equipo de su bancada (ver sección 2.4);
 ```
+
 ```
 todas las oradoras deberían aceptar puntos de información durante sus
 discursos y solicitar puntos de información regularmente (ver sección 1.4);
 ```
+
 ```
 todas las oradoras deberían hablar dentro del tiempo asignado (ver sección
 1.2).
 ```
+
 Enfatizamos que no existe ‘cuarto automático’ o alguna penalización automática por
 el incumplimiento de las reglas en este documento. Un equipo que incumple su rol en
 algún punto, puede seguir siendo lo suficientemente persuasivo como para vencer
@@ -2579,8 +2460,6 @@ si bien tiene cierto valor, rara vez es más relevante que añadir nuevos argume
 análisis. Además, no profundizar en los argumentos propios facilita mucho el traba-
 jo de las Cámaras Bajas al potencialmente dejarles más material para extender el
 debate.
-
-
 
 (^20) La última oración de este párrafo ha sido añadida por el Equipo de
 Adjudicación de CMUDE Ecuador 2021.
@@ -2612,6 +2491,7 @@ ducir nuevos encuadres competitivos como se especifica anteriormente en el
 presente manual. No obstante, BG no podrá cambiar el modelo de AG si esta
 presenta uno que sea justo y razonable para el debate.
 ```
+
 AG también tiene el deber de definir la moción. Los debates tratan sobre la moción tal
 y como la define el AG, no sobre lo que otras debatientes o juezas en la sala pensaron
 que significaban las palabras de la moción. La definición da forma a los temas en
@@ -2626,8 +2506,6 @@ especifique de manera explícita cuestiones obvias.^21 Por ejemplo, en algunos d
 se utilizarán palabras como “uso generalizado de X”. El término “uso generalizado de
 X” se refiere a un estado del mundo en el que X es un fenómeno relativamente amplio.
 PM tiene la capacidad de caracterizar cómo se ve esto siempre que sea razonable.
-
-
 
 La definición debe estar en el nivel de generalidad implícito en la moción. Es legíti-
 mo que AG excluya ejemplos marginales y extremos (‘estamos prohibiendo la cirugía
@@ -2677,8 +2555,6 @@ el debate sobre si las juezas en el histórico caso Roe vs Wade en EE.UU. debier
 la decisión a la que se llegó en ese momento. Sin embargo, proponer una escala de
 tiempo específica para una moción no constituye un ajuste de tiempo injusto siempre
 
-
-
 que se mantenga la implementación razonablemente cerca del presente. Por tal, es
 legítimo decir que ‘permitiremos un período de transición de dos años para que las
 empresas se adapten a los cambios propuestos que crea nuestra política antes de
@@ -2720,8 +2596,6 @@ ser juzgados basándose en el contenido de estos.
 Una definición vaga no responde claramente a ciertas preguntas vitales sobre qué
 significa la moción o qué sucederá bajo la política que AG defiende. Al definir el debate
 
-
-
 no se puede especificar todo y no se espera que AG sea exhaustivo, pero algunos
 casos comunes de definiciones vagas incluyen ocasiones en las que el debate requi-
 ere definiciones para funcionar de manera justa que fallan en especificar: exacta-
@@ -2758,15 +2632,18 @@ no deben tener en cuenta esa ventaja.
 ```
 Ejemplo 1:
 ```
+
 ```
 PM: ‘Definimos esta moción como permitir a las presas el derecho a participar
 en elecciones’.
 ```
+
 ```
 LO: ‘PM no ha limitado esta moción a las adultas encarceladas. Por lo tanto,
 debemos suponer que a las menores de edad encarceladas se les permitirá
 votar, lo que está mal ya que no son aptas para votar’
 ```
+
 ```
 VPM: ‘Eso es absurdo. Obviamente, a las menores de edad presas no se les
 permitirá votar’.
@@ -2780,21 +2657,26 @@ permitirá votar’.
 La jueza debería concluir: la VPM está en lo cierto. La suposición hecha por LO no es
 razonable y debe ser rechazada. AO no recibe crédito por su respuesta.
 ```
+
 ```
 Ejemplo 2:
 ```
+
 ```
 PM: ‘Definimos esta moción como permitir a las presas el derecho a participar
 en las elecciones’.
 ```
+
 ```
 LO: ‘PM no nos ha dicho qué tipo de prisioneras pueden votar. Esta definición
 es ilegítima porque no nos dice cuáles, y eso podría incluir asesinas’.
 ```
+
 ```
 VPM: ‘¡Eso es una tontería! Por supuesto, nuestro modelo no se extiende a las
 asesinas ¡Eso no tendría sentido!’.
 ```
+
 ```
 La jueza debería concluir: Ni VPM ni LO están en lo cierto. No había algo malo en la defi-
 nición de PM; simplemente dejaba la oportunidad para que los equipos de Oposición
@@ -2802,6 +2684,7 @@ formulasen argumentos sobre por qué permitir que las asesinas voten sería una 
 idea. No es obvio que las asesinas fueron excluidas de la definición de PM, ni está claro
 si deberían ser excluidas.
 ```
+
 #### Impugnar una definición
 
 ```
@@ -2811,16 +2694,19 @@ que una definición es inválida es si cumple con una de las dos circunstancias 
 tas anteriormente. No es suficiente que una definición no parezca ‘dentro del espíritu
 de la moción’, o que otros equipos hayan esperado una definición diferente.
 ```
+
 ```
 Si un equipo impugna la definición, deben explicitar que la definición es ilegítima y
 explicar por qué lo es. Al impugnar la definición, LO tiene dos opciones:
 ```
+
 ```
 En primer lugar, puede quejarse de que la moción ha sido definida de manera
 inválida, pero proceder a debatirla de todos modos. Esto es preferible si la defin-
 ición propuesta no es una lectura justa de la moción, pero aún así es discutible. El
 debate prosigue y es juzgado con normalidad.
 ```
+
 ```
 En segundo lugar, puede impugnar la definición y redefinir el debate. Para ello,
 se debe explicar al panel y a los otros equipos cuál sería la definición adecuada
@@ -2873,7 +2759,6 @@ esto podría ser resultado de que no definieron la moción correctamente.
 Pero como CMUDE es un torneo internacional, con mociones que presumiblemente
 se aplican a países diferentes, cada uno con diversas políticas existentes, el mero
 
-
 hecho de que una definición sea el _‘status quo’_ en algún contexto no es un problema
 de definición. Por ejemplo, si en la moción ‘EC solo tendría legislaturas unicamerales’,
 y AG propone que todas las democracias tengan un Parlamento unicameral elegido
@@ -2898,24 +2783,29 @@ AG no ha especificado completamente.
 ```
 Ejemplo 1:
 ```
+
 ```
 PM: ‘Permitiremos que todas las presas voten en elecciones si les queda menos
 de una semana de sentencia’.
 ```
+
 ```
 LO: ‘Esto es claramente una definición injusta, ya que restringe excesivamente
 el alcance del debate, pero nos opondremos de todos modos’.
 ```
+
 **La jueza debería concluir:** LO ha presentado un desafío correcto a la moción y PM
 debe ser penalizada según lo expuesto anteriormente.
 
 ```
 Ejemplo 2:
 ```
+
 ```
 PM: 'Permitiríamos que todas las acusadas injustamente voten y las liber-
 aremos de la prisión'.
 ```
+
 ```
 LO: 'Esta es una desviación completamente inaceptable de la definición has-
 ta el punto en que Gobierno no ha argumentado que las personas presas
@@ -2923,11 +2813,10 @@ deberían poder votar. Como lo que necesitan demostrar es que todas las per-
 sonas presas se les debe permitir votar, eso es a lo que nos opondremos. Nos
 oponemos a tal política por las siguientes razones...'
 ```
+
 **La jueza debería concluir:** LO ha hecho lo correcto reemplazando la definición
 inaplicable por otra viable. Los equipos deben seguir lo propuesto por LO y debatir la
 moción tal como se ha establecido.
-
-
 
 #### Ampliación de la definición
 
@@ -2963,7 +2852,6 @@ de manera sostenida en el tiempo.
 (^22) Esta sección fue añadida por el Equipo de Adjudicación de CMUDE Ecua-
 dor 2021 y ha sido significativamente modificada por el Equipo de Adjudi-
 cación de CMUDE Madrid 2022.
-
 
 ### 2.11. Oponerse al debate
 
@@ -3004,7 +2892,6 @@ Por ejemplo, en la moción 'EC incrementaría significativamente los impuestos a
 personas del sector más alto de ingresos', **AO puede plantear como contrapropues-
 ta realizar excepciones fiscales importantes para los más ricos a cambio de obras**
 
-
 **públicas - una medida que es mutuamente excluyente con el modelo de AG, dado
 que no pueden subirse y bajarse los impuestos a la vez.** No sería, sin embargo, una
 contrapropuesta válida que AO dijese que van a educar a las personas en la filantro-
@@ -3039,7 +2926,6 @@ son mutuamente excluyentes y por qué es
 probable que los esfuerzos se dirijan a otras
 áreas.
 
-
 **A**
 
 **B**
@@ -3050,6 +2936,7 @@ probable que los esfuerzos se dirijan a otras
 fifl
 
 ```
+
 #### Alternativas
 
 Presentar argumentos que sugieren un rango de alternativas viables y soluciones no
@@ -3069,6 +2956,7 @@ decir, cuando los equipos de Oposición presentan alternativas, siguen compara-
 ndo el mundo con el plan de gobierno con el status quo, las alternativas solo son
 útiles para cuestionar la persuasión del caso de Gobiernos.
 ```
+
 ##### Los equipos no cuentan con poder de fiat al presentar alternativas
 
 ```
@@ -3076,6 +2964,7 @@ Los equipos de Oposición no tienen poder de fiat cuando presentan alternativas,
 los equipos de Gobierno pueden cuestionar la viabilidad de las alternativas sugeri-
 das.
 ```
+
 ##### Las alternativas no son vinculantes para toda la bancada de Oposición
 
 ```
@@ -3084,6 +2973,7 @@ rango de alternativas posibles no es lo mismo que presentar un mecanismo espe-
 cífico con el que toda la bancada de Oposición deba comprometerse, mientras
 que una contrapropuesta es un mecanismo específico al que BO sí debe atenerse.
 ```
+
 Las alternativas, como cualquier otro argumento, deben probar que son superiores
 en algún modo para ganar choques. Su mera existencia no es suficiente para que los
 equipos que las presenten ganen. Alternativas ganadoras serían aquellas que cum-
@@ -3094,15 +2984,15 @@ están detalladas y fundamentadas - alternativas vagas y no fundamentadas
 son evaluadas de la misma manera que los argumentos vagos y no probados
 (esto es, son encontrados como no persuasivos);
 ```
+
 ```
 son mutuamente excluyentes del modelo de AG - de otro modo, deberían ser
 evaluadas como cualquier otro material no exclusivo presentado en la ronda.
 ```
+
 **A**
 
 **B**
-
-
 
 Por ejemplo, si AO simplemente afirmara que pueden 'regular', **esto sería significati-
 vamente menos persuasivo que explicar cómo regularían y por qué esta regulación
@@ -3117,14 +3007,17 @@ invertido en dichas áreas en el lado de Oposición.**
 ```
 Ejemplo 1:
 ```
+
 ```
 PM: 'Creemos que EE.UU. debería invadir Siria de inmediato e instalar un nuevo
 gobierno'.
 ```
+
 ```
 LO 'Creemos que EE.UU. debería invadir Siria de inmediato, pero también deberían
 dar asistencia económica a un nuevo régimen sirio'.
 ```
+
 **La jueza debería concluir:** la contrapropuesta de AO no es mutuamente excluyente
 con la de AG, y de hecho acepta la premisa de su caso. AO no se está oponiendo a la
 moción.
@@ -3132,14 +3025,17 @@ moción.
 ```
 Ejemplo 2:
 ```
+
 ```
 PM: 'Creemos que EE.UU. debería invadir Siria de inmediato e instalar un nuevo
 gobierno'.
 ```
+
 ```
 LO: 'En lugar de invadir, E.E.UU. debería dar ayuda militar a los grupos rebeldes den-
 tro de Siria.'
 ```
+
 **La persona jueza debería concluir:** estrictamente, la contrapropuesta de AO no es
 mutuamente excluyente con el de AG, pero sí lo han establecido como una alternativa
 (en efecto, diciendo que 'sugerimos la política de a) no invadir y b) dar ayuda militar').
@@ -3154,7 +3050,6 @@ lo siguiente: ‘creemos que la necesidad de la medida de gobierno se ve mitigad
 por la existencia de medidas que ya existen actualmente, como la promoción de
 tratamientos de rehabilitación gratuitos y los subsidios a sustancias alternativas
 como la metadona’.**
-
 
 **En este caso, Alta de Oposición menciona una serie de alternativas que ya existen en
 el** **_status quo_** **y que pueden mitigar los impactos negativos que señala Alta de Gobi-
@@ -3197,7 +3092,6 @@ responder, preguntarse qué tanto podía inferirse este material del análisis p
 do en el debate, qué tantas posibilidades tenía AG de haber prevenido este material
 en su caso.
 
-
 ### 2.13. Discursos de Extensionista - Extender el debate
 
 Las Extensionistas de Gobierno y de Oposición son las responsables de 'extender'
@@ -3231,7 +3125,6 @@ Látigo) es suficientemente mejor que lo que ya se presentó. Es poco probable q
 equipo de Cámara Baja que contribuye con una extensión mínima haya presentado
 material más persuasivo que su Cámara Alta. Como resultado, los equipos de Bajas
 
-
 no derrotan a su Alta simplemente por 'tener una extensión' (del mismo modo que
 los equipos de AG tampoco ganan por 'tener un modelo'). Una extensión ganadora
 presentará material (constructivo o refutativo) que sea más efectivo al persuadir a la
@@ -3264,6 +3157,7 @@ ciones. Asimismo, al analizar las aportaciones de las Cámaras Bajas, las juezas
 deben identificar qué es exclusivamente nuevo en el caso de las Bajas y comparar
 dicho material exclusivo con el de la Altas (o con cualquier equipo del debate).
 ```
+
 Los equipos de Cámaras Bajas pueden ganar recurriendo a comparaciones implíci-
 tas, que consisten en justificar la importancia de sus argumentos sin aludir directa-
 mente al material de otras Cámaras ni explicitar por qué un material es más impor-
@@ -3272,7 +3166,6 @@ sobre la generalista’ AG explica la importancia de la especialización para in
 laboral, pero BG aporta mejores justificaciones sobre por qué el desarrollo personal
 que se consigue es lo más importante, BG puede ganar la comparativa y no debería
 ser castigada por no hacer referencias explícitas al encuadre de AG.
-
 
 **1**
 
@@ -3284,6 +3177,7 @@ ser castigada por no hacer referencias explícitas al encuadre de AG.
 
 
 ```
+
 #### Acuchillamiento
 
 Las Cámaras Bajas deben ser consistentes con sus Cámaras Altas (para mayor
@@ -3297,15 +3191,18 @@ Cuando la Cámara Alta ha concedido el debate, o ha hecho una concesión
 extremadamente perjudicial que hace que sea imposible ganar el debate
 desde su lado;
 ```
+
 ```
 Cuando AG ha definido la moción de manera 'ardilla' (o cuando AO ha pre-
 sentado una contrapropuesta inválida);
 ```
+
 ```
 Cuando la Cámara Alta ha presentado una afirmación fácticamente falsa que
 la votante informada promedio reconocería como falsa (p.e. en un debate
 sobre viajes espaciales, decir que la luna está hecha de queso).
 ```
+
 Debe quedar claro que, bajo estas circunstancias poco frecuentes, los equipos
 de bajas aún deben ser consistentes con el resto del material presentado por las
 Cámaras Altas - esto no es un 'cheque en blanco' para ignorar todo lo que haya
@@ -3326,8 +3223,6 @@ Un buen discurso de Látigo identificará los principales desacuerdos en el deba
 (puntos de choque) entre las dos bancadas y hará uso de los mejores argumentos de
 cada equipo de su lado para argumentar que la moción debe ser aprobada o rechaz-
 ada. En la medida que el objetivo de su equipo es presentar material más persuasivo
-
-
 
 que el de su Cámara Alta, una Látigo puede explicar por qué las contribuciones de
 su equipo son las más persuasivas o importantes de su bancada, sin embargo, no
@@ -3365,7 +3260,6 @@ plemente deben ignorarlo, y no otorgarle crédito alguno.** Agregar nuevos argum
 tos no debe ser penalizado más allá de esto. Más bien, las juezas eliminan la ventaja
 que la violación de las reglas da al equipo, ignorando el nuevo material presentado.
 
-
 (^24) Dentro de CMUDE 2021 se adhieren al 'ANEXO II: Protocolo de Equidad' y al
 Código de conducta que deriva de la Constitución del Consejo Mundial de
 Debate en Español y que es redactada por el Comité de Equidad CMUDE 2021.
@@ -3402,14 +3296,11 @@ ocurrirá de vez en cuando. Al contrario: **nunca** deberían presentarse en un 
 debate existe para el disfrute de las participantes y no merece la pena que las per-
 sonas se peleen entre sí.
 
-
 ## Notas adicionales
 
 ## para las juezas
 
 # 3
-
-
 
 La mayoría de la información sobre cómo adjudicar los debates y determinar los
 resultados se proporcionó en el capítulo 2, por lo que **todas las juezas deben leer
@@ -3446,7 +3337,6 @@ bancada.
 
 **No existen cosas como un 'cuarto automático' o 'primero automático'.** Esta es una
 cuestión lógica básica: por bien o mal que un equipo lo haya hecho, otro equipo
-
 
 siempre puede hacerlo exactamente igual de bien o mal **y** además hacer algo que
 les haga quedar mejor o peor.
@@ -3486,7 +3376,6 @@ tos no hacen daño alguno a la bancada contraria. Por ejemplo, en un debate sobr
 la legalización de las drogas, si Gobierno dice que 'los elefantes rosados son lindos
 porque tienen orejas bonitas y son de un color agradable', este argumento puede
 dejarse sin refutar porque no es una razón para legalizar drogas. Por lo tanto, no es
-
 
 necesario señalar que los elefantes azules son más elegantes. **Asimismo, si Gobierno
 simplemente afirma que 'algunas drogas son menos dañinas que otras', esto tam-
@@ -3539,6 +3428,7 @@ el resultado. Si un panel está conformado por un
 ```
 83
 ```
+
 número par de juezas y el resultado de la votación es un empate, el voto de la jueza
 principal romperá el empate (por tanto, el resultado del disenso por el que votaba la
 jueza principal será el resultado final).
@@ -3569,6 +3459,7 @@ En caso de considerarse capaz de justificar de manera suficiente el resultado
 de la votación, la jueza principal deberá explicar dicha comparativa en la
 retroalimentación;
 ```
+
 ```
 En caso de no considerarse capaz de justificar el resultado de la votación de
 la mejor forma posible, debido a que no considera como claras o suficientes
@@ -3577,12 +3468,11 @@ ativa en cuestión, podrá designar a una panelista que apoyaba la decisión
 mayoritaria para justificar dicha comparativa. La jueza principal debe justifi-
 car el resto de comparativas.
 ```
+
 (^25) Este apartado no se encuentra en WUDC _Debating & Judging Manual._ Los pár-
 rafos 1 y 2 fueron escritos por el Equipo de Adjudicación de CMUDE Ecuador 2021 y
 replanteados por el Equipo de Adjudicación de CMUDE Madrid 2022. Los párrafos 3
 a 5 fueron escritos por el Equipo de Adjudicación de CMUDE Madrid 2022.
-
-
 
 Cabe destacar que, idealmente, debe ser la jueza principal quien presente la totalidad
 de la retroalimentación, por lo que ceder la palabra a una panelista para justificar la
@@ -3615,12 +3505,12 @@ La designación de una jueza como principal, panelista o _trainee_ puede cambiar
 largo del torneo, ya que el Equipo de Adjudicación irá obteniendo más información de
 estas juezas, a través del _feedback_ de equipos y juezas, o juzgando con ellas.
 
-
 ```
 REPÚBLICA
 DOMINICANA
 85
 ```
+
 ### 3.3. Gestionar la deliberación
 
 En debates cerrados, es de esperar que las juezas del panel tengan diferentes puntos
@@ -3655,12 +3545,14 @@ a) Todas tienen exactamente las mismas posiciones – se puede tener una breve
 discusión en torno al ranking o clasificación para ver si todas coinciden mayoritar-
 iamente en las razones. Luego se pasa al puntaje de oradoras.
 ```
+
 ```
 b) Todas tienen las mismas posiciones, excepto una persona – se puede pedir la
 defensa de la postura a las juezas, empezando con la persona en disenso. Se debe
 ser específica, centrándose en el punto fundamental de discrepancia. Si la diferen-
 cia es entre un equipo, debería enfocarse en ese equipo, etc.
 ```
+
 ```
 c) Las posiciones son parecidas, pero hay algunas diferencias importantes; están
 de acuerdo en que cierto equipo tiene una determinada posición (todas creen que
@@ -3668,13 +3560,12 @@ AG fue mejor que BG) - se puede empezar estableciendo qué discusiones hay que
 tener (si AG gana frente a AO), y buscar consolidar los consensos existentes; estos
 pueden utilizarse como plataforma para romper las discrepancias.
 ```
+
 (^26) Eso dicho, es importante que las comparativas entre equipos sean “por pares” o bilaterales.
 Es decir, si se comparan dos equipos, las contribuciones de otros equipos no deberían con-
 siderarse relevantes en esa comparativa. Por ejemplo, una Baja de Gobierno que claramente
 gana el debate no fortalecerá la posición de Alta de Gobierno si es que está perdiendo ante
 Alta de Oposición.
-
-
 
 ```
 d) Caos – no hay similitud entre los rankings. La jueza principal guía la discusión
@@ -3687,11 +3578,13 @@ argumentos son los centrales, encuadra una discusión sobre la relevancia de los
 argumentos; que cada una explique su posición e intenta establecer un criterio
 para evaluar la importancia de dichos argumentos.
 ```
+
 ```
 Después de esta discusión, se puede solicitar un ranking de equipos y comparar-
 los. Si se encuentran en un mayor punto de consenso, pasar al punto (c). En caso
 necesario, realicen una votación.
 ```
+
 **Es importante recordar que las discusiones deben darse dentro del tiempo estab-
 lecido. Se espera que las personas juezas destinen al menos 3 minutos dentro de la
 deliberación para asignar el puntaje de personas oradoras. Es decir, si son 20 minu-
@@ -3721,7 +3614,6 @@ decisiones basadas en compromisos inamovibles, pero no hay que tener miedo a
 realizar votaciones en los puntos en los que haya desacuerdos. Durante el _feedback,_
 se espera que se explique que las decisiones no han sido unánimes y cuales han sido
 los motivos de este desencuentro a la hora de explicar el resultado.
-
 
 **A**
 
@@ -3754,6 +3646,7 @@ los puntos de oradora para reflejar tu punto de vista diferente'. Si la mayoría
 cree que la diferencia entre dos equipos es escasa, no hay razón alguna para
 que los puntajes digan lo contrario.
 ```
+
 ##### Los puntajes de las oradoras combinados para cada equipo deben ser
 
 ##### compatibles con el ranking que recibieron.
@@ -3786,6 +3679,7 @@ otorgado. También hay varios premios para oradoras. Por lo tanto, las juezas
 deben realizar la adjudicación de los puntos de oradora con cuidado y man-
 tenerse lo más cerca posible de la escala de puntos de oradora.
 ```
+
 ##### Los puntos de oradora son eficientes en los rankings finales sólo si
 
 ##### las juezas del torneo los designan con cierta consistencia:
@@ -3796,6 +3690,7 @@ ejemplo. Por ello, las juezas deben apegarse a los estándares generales, tal
 y como se presentan en la escala de puntos de oradora, en lugar de a sus
 estándares personales.
 ```
+
 ##### Las juezas no deben temer usar todo el rango de la escala cuando esté
 
 ##### justificado, pero los discursos deben ser excepcionalmente buenos
@@ -3813,9 +3708,9 @@ sala media, etc.), ni por las expectativas de un 'promedio general' del torneo y
 analicen cada discurso sin pre-concepciones sobre el puntaje que se debería
 otorgar.^27
 ```
+
 (^27) Este párrafo ha sido modificado por el Equipo de Adjudicación de CMUDE
 Madrid 2022 para responder a las realidades del circuito hispanohablante.
-
 
 **F**
 
@@ -3823,6 +3718,7 @@ Madrid 2022 para responder a las realidades del circuito hispanohablante.
 
 
 ```
+
 ##### Las juezas deben evaluar a todos las oradoras de manera justa y deben
 
 ##### tener en cuenta que ni el dominio del idioma ni el acento influyen en
@@ -3834,6 +3730,7 @@ El Equipo de Adjudicación no tolerará el sesgo sobre la fluidez del idioma de
 una persona y/o su trasfondo (cultural) y tendrá un impacto negativo en el
 ranking de la jueza.
 ```
+
 ### 3.5. Anunciar el resultado
 
 La jueza principal es la encargada de anunciar y justificar las posiciones de los equi-
@@ -3860,14 +3757,13 @@ no deberían ser juzgados de acuerdo con estilos de debate particulares. (ya sea
 esquemas normativos como "problema/solución" o separaciones de los elementos
 de "contenido, estilo, estrategia" al evaluar la persuasión).
 
-
-
 #### Estructura del feedback
 
 ```
 Anunciar la posición de los equipos y explicar la estructura de la explicación.
 Un ejemplo, por tanto, podría ser:
 ```
+
 'Gracias a todas las personas oradoras por este debate, fue excelente. Comenzaré
 dando las posiciones, posteriormente explicaré por qué un equipo venció o perdió
 frente a otros y después daré _feedback_ general. Por cuestión de tiempo, no podré dar
@@ -3880,6 +3776,7 @@ do para BG, tercero para BO y el cuarto lugar es para AG (continuar con el paso 
 ```
 Explicar las posiciones de los equipos.
 ```
+
 Pasar por cada equipo en un orden que tenga sentido, comparando equipos y expli-
 cando por qué uno vence al otro. En general, esto suele llevar a explicar las posiciones
 de manera cronológica (empezando por AG y terminando con BO) o en el orden de la
@@ -3910,11 +3807,11 @@ a todos los Equipos de Adjudicación y los reemplazaría por inteligencia artifi
 Paso
 2
 ```
+
 ```
 Paso
 1
 ```
-
 
 'Veamos el debate cronológicamente para explicar las posiciones: identificamos tres
 choques entre AG y AO; concretamente (1) si es legítimo despedir a los Equipos de
@@ -3961,10 +3858,10 @@ no lo permite, es preferible centrarse solo en la comparativa con los equipos in
 tamente superior e inferior, pero asegurándose de ser capaz de justificar por comple-
 to cualquier comparativa que pueda llegar a pedir un equipo al terminar el _feedback._
 
-
 ```
 Dar consejos generales sobre cómo pueden mejorar los equipos.
 ```
+
 Los consejos deben estar separados del razonamiento de las posiciones porque esto
 evita confundir a los equipos y que mezclen ambos. Hay una serie de consejos gene-
 rales que puedes dar como jueza:
@@ -3972,18 +3869,22 @@ rales que puedes dar como jueza:
 ```
 consejos generales sobre cómo mejorar;
 ```
+
 ```
 realizar sugerencias sobre por qué determinadas cosas fueron identificadas por
 las juezas de una manera u otra;
 ```
+
 ```
 qué argumentos podrían haberse expuesto (es preferible evitar esto a menos
 que la jueza reciba una pregunta en específico sobre este punto).
 ```
+
 ```
 Invita a los equipos a que te pregunten a ti o a las panelistas por más feed-
 back al terminar el debate.
 ```
+
 **3.6. Errores habituales que se deberían evi-**
 
 **tar al juzgar y dar** **_feedback_**
@@ -4000,18 +3901,22 @@ serán insuficientes.
 'Creemos que BO fue quien trajo realmente el caso al debate, así que gana el
 debate'.
 ```
+
 ```
 ’AO trajo cosas interesantes, pero el análisis no llegó realmente hasta BO’.
 ```
+
 ```
 ‘AO habló de derechos, pero no lo encontré muy persuasivo’.
 ```
+
 Es perfectamente válido que las juezas utilicen un lenguaje general para introducir
 
 ```
 Paso
 3
 ```
+
 ```
 Paso
 4
@@ -4027,12 +3932,15 @@ dentro del propio proceso de deliberación.
 ```
 'Gobierno nunca habla sobre derechos en este debate'.
 ```
+
 ```
 ‘Hasta que no llegó la Látigo no escuchamos algo sobre el aspecto económico'.
 ```
+
 ```
 ’En realidad, yo no habría sacado ese caso'.
 ```
+
 Las juezas pueden tener su opinión sobre cuáles serían los mejores argumentos de
 cada lado, pero ese no es el criterio bajo el cual deben juzgar. Las juezas pueden indi-
 car que hubo aspectos interesantes que no fueron analizados, pero no debe penalizar
@@ -4044,14 +3952,17 @@ a los equipos por cómo han decidido plantear la moción o sus líneas argumenta
 'La persona látigo de oposición dio nuevos argumentos clave para que Baja de
 Oposición ganara el debate'.
 ```
+
 ```
 ‘Baja de gobierno incurrió en un acuchillamiento al material argumentativo de
 la Primera Ministra y, por tanto, inevitablemente será cuarta en este debate'.
 ```
+
 ```
 ’Vice primer ministra incluyó un argumento brillante después del minuto 6. Lam-
 entablemente, llegó muy tarde en el debate y no fue tenido en cuenta'.
 ```
+
 Se debe conocer el manual para juzgar. Las decisiones siempre deben estar respal-
 dadas por los criterios que este documento establece, priorizando la coherencia con
 los estándares y principios definidos para garantizar la imparcialidad y consistencia
@@ -4066,6 +3977,7 @@ en la evaluación de los equipos.
 ```
 'BG ganó porque sus argumentos eran morales en vez de prácticos'.
 ```
+
 Este error suele tomar varias formas, una de las cuales es la fetichización del uso del
 conocimiento específico al construir argumentos. Los equipos que defienden argu-
 mentos sólidos apoyados por buenos conocimientos deben ser recompensados, pero
@@ -4085,17 +3997,21 @@ sigue.
 ```
 'No aceptaron algún PdI, por lo que no había forma de que pudieran ganar'.
 ```
+
 ```
 'Teníamos dudas sobre el mecanismo, así que te ponemos en último lugar'.
 ```
+
 ```
 'Tu último punto apareció después del minuto seis de discurso, lo que te hizo
 mucho daño'.
 ```
+
 ```
 'Dado que BG no sopesó explícitamente sus argumentos contra AG, AG se posi-
 ciona automáticamente por encima'.
 ```
+
 Una buena jueza no es aquella que intenta buscar todas las razones posibles para
 reducir la importancia de la línea argumental de un equipo, ni tampoco es aquella
 que prioriza hablar de la forma, en vez del fondo, de su contribución. Si un equipo
@@ -4111,7 +4027,6 @@ oradora tenga menos tiempo para desarrollarlo, pero la jueza aún así tiene la 
 gación de evaluar qué tan sustancial fue la contribución de ese argumento al debate.
 Un argumento de un minuto puede ser igual de persuasivo si se expone en el último
 minuto del discurso o en mitad del mismo.
-
 
 No aceptar PdI significa que el material aportado por la oradora va a ser visto como
 menos persuasivo, no que vaya a ser excluido de toda consideración.
@@ -4154,8 +4069,6 @@ to podría basar su análisis en un argumento anterior. Las juezas pueden optar 
 comentar estos problemas en el _feedback_ a los equipos, pero estos no deberían afec-
 tar el resultado de la ronda.
 
-
-
 **LLEGAR RÁPIDAMENTE A UNA DECISIÓN Y LUEGO ENCONTRAR UNA**
 
 **JUSTIFICACIÓN PARA ELLO**
@@ -4164,11 +4077,13 @@ tar el resultado de la ronda.
 'Todas vimos el debate de la misma manera, así que solo vengan a nosotras
 cada quién para recibir feedback y recomendaciones'.
 ```
+
 ```
 'Los equipos de las Cámaras Bajas fueron mucho más persuasivos, y sus argu-
 mentos fueron muy impactantes para las juezas, por lo que AG es tercero y AO
 queda en cuarto lugar'.
 ```
+
 Ya sea a nivel individual o como panel, puede ser tentador creer que el resultado del
 debate es realmente claro, y en vez de analizar cuidadosamente las contribuciones
 de los cuatro equipos para garantizar una justificación lógica y precisa, construir una
@@ -4188,8 +4103,6 @@ porque las juezas se preocupan sobre su desempeño en el torneo, y el _feedback_
 clave para valorar de manera justa su rendimiento. Por ello, tras cada ronda, los equi-
 pos y las juezas deben rellenar _feedbacks_ a las juezas, a través del _software_ de tabu-
 lación.
-
-
 
 (^28) Tabla de oradoras originalmente creada por Sam Block, Jonathan Leadre
 Maynard y Alex Worsnip, actualizada por el Equipo de Adjudicación de _Warsaw
@@ -4223,7 +4136,6 @@ todas las oradoras de forma justa, así como tener en cuenta que **su nivel de d
 del idioma o su acento particular no deben tener un impacto en la puntuación de
 una oradora.** Pedimos a las oradoras hacer uso de la totalidad de rangos que con-
 forman la tabla, dependiendo de la situación particular^29.
-
 
 ##### Puntos Comentarios Cualitativos
 
@@ -4283,7 +4195,6 @@ temas principales del debate;
 explicaciones; análisis simplista que es vulnerable a respuestas competentes;
 **-** Es claro, por lo que se puede seguir y por tanto darle crédito.
 
-
 ###### 73-75
 
 **-** Los argumentos son mayoritariamente relevantes, aunque pueden fallar en involucrarse
@@ -4342,7 +4253,6 @@ observaciones;
 **-** El contenido no presenta nada que sugiera análisis.
 **-** Es imposible seguir el discurso en su mayoría, lo que hace difícil darle crédito alguno.
 
-
 (^30) Tablas originalmente creadas por el Equipo de Adjudicación de 2019 Athens
 EUDC. Nueva traducción por el Equipo de Adjudicación de CMUDE Madrid 2022.
 **Puntos
@@ -4368,6 +4278,7 @@ presenta _feedback_ constructivo a los equipos.
 ```
 9 Excelente
 ```
+
 **- Precisión:** resultados muy exactos, reflejados en una apreciación
 correcta de las comparativas ‘cerradas’ entre los equipos; recono-
 cimiento exhaustivo de la mayoría de comparativas necesarias entre
@@ -4391,8 +4302,8 @@ deben cumplir todas las características para posicionarse en un rango. Asimismo
 se espera que las calificaciones no utilicen números decimales, sino números natu-
 rales del 1 al 10 de acuerdo con lo estipulado en la tabla.
 ```
-### Tabla de Feedback a juezas principales
 
+### Tabla de Feedback a juezas principales
 
 **8 Muy bien**
 
@@ -4412,6 +4323,7 @@ en gran parte eficiente, efectiva al gestionar la deliberación.
 ```
 7 Bien
 ```
+
 **- Precisión:** resultados precisos, reflejados a través de posiciones gen-
 eralmente correctas, pero potencialmente erróneas en relación a las
 comparativas ‘cerradas’ entre equipos; reconocimiento cuidadoso de
@@ -4451,13 +4363,13 @@ damental, del debate.
 **- Razonamiento / justificación:** cierto esfuerzo por justificar la decisión;
 las explicaciones demuestran cierto grado de apreciación sobre los
 
-
 ```
 choques y temas fundamentales; regularmente con presunciones o
 sesgos personales al juzgar, algunos de las cuales pueden afectar la
 calidad de la justificación; falta de claridad respecto a comparativas
 específicas entre equipos.
 ```
+
 **- Discusión:** a veces ineficiente al gestionar la deliberación; en ocasiones,
 presenta problemas para comprender a una o más personas del panel
 sin una razón clara que ocasione dicha dificultad; demuestra una falta
@@ -4470,6 +4382,7 @@ tad para presentar _feedback._
 Debajo del
 promedio
 ```
+
 **- Precisión** : resultados inexactos, que, sin embargo, reflejan una identi-
 ficación adecuada de las posiciones ‘evidentes’; los resultados reflejan
 una o varias interpretaciones incorrectas del debate; cierta falta de
@@ -4487,6 +4400,7 @@ del panel; hasta cierto punto inoportuna al presentar _feedback._
 ```
 3 Deficiente
 ```
+
 **- Precisión:** resultados inexactos que fallan al identificar correctamente
 una o más posiciones ‘evidentes’; los resultados reflejan múltiples inter-
 pretaciones erróneas del debate, algunas de las cuales pueden ser fun-
@@ -4507,6 +4421,7 @@ del panel; en su mayoría inoportuna al presentar _feedback._
 2 Muy
 deficiente
 ```
+
 **- Precisión:** resultados significativamente inexactos que fallan com-
 pletamente en identificar más de una de las posiciones ‘evidentes’; los
 resultados reflejan varias interpretaciones erróneas que son centrales
@@ -4515,7 +4430,6 @@ respuestas importantes.
 **- Razonamiento / justificación:** poco o nulo esfuerzo por justificar la
 decisión; las explicaciones demuestran una falta de apreciación de los
 
-
 ```
 choques y temas más importantes; frecuentes presunciones o sesgos
 personales o percepciones irrelevantes que dañan la calidad de la jus-
@@ -4523,6 +4437,7 @@ tificación y los resultados de forma severa; falta de claridad respecto a
 la mayoría de comparativas entre equipos; las explicaciones son irrele-
 vantes para comprender los resultados.
 ```
+
 **- Discusión:** gran incompetencia para gestionar la deliberación; tiene
 problemas para considerar o incluir en la discusión a las juezas del
 panel; inoportuna y hasta cierto punto contraproducente al presentar
@@ -4546,7 +4461,6 @@ der los resultados.
 tiene problemas para considerar o incluir en la discusión a las juezas
 del panel; inoportuna y muy contraproducente al presentar _feedback._
 
-
 ### Tabla de Feedback a juezas panelistas y trainee
 
 **Puntos**
@@ -4555,11 +4469,13 @@ del panel; inoportuna y muy contraproducente al presentar _feedback._
 Descripción
 General
 ```
+
 **Comentarios Cualitativos**
 
 ```
 10 Excepcional
 ```
+
 **- Precisión:** resultados extremadamente exactos, reflejados en una
 apreciación precisa y una evaluación meticulosa de las comparati-
 vas ‘cerradas’ entre los equipos (denotadas en los puntos de oradora);
@@ -4579,6 +4495,7 @@ comentarios claramente analizados.
 ```
 9 Excelente
 ```
+
 **- Precisión:** resultados muy exactos, reflejados en una apreciación
 correcta de las comparativas ‘cerradas’ entre los equipos (denotadas
 en los puntos de oradora); reconocimiento exhaustivo de la mayoría de
@@ -4595,6 +4512,7 @@ juicio sobre lo que es relevante y útil para la misma; participación muy
 ```
 8 Muy bien
 ```
+
 **- Precisión:** resultados precisos, reflejados a través de un juicio en
 gran parte correcto sobre las comparaciones ‘cercanas’ entre equipos;
 reconocimiento detallado de la mayoría de comparativas necesarias
@@ -4606,7 +4524,6 @@ ciones menores o sesgos personales al juzgar, o falta de claridad menor
 en una o varias comparativas entre equipos; las métricas utilizadas
 para juzgar son presentadas, pero no justificadas de forma explícita;
 alto potencial para ser principal.
-
 
 **- Discusión:** contribución exhaustiva a la discusión que refleja buen
 juicio respecto a lo que es relevante para la misma; participación muy
@@ -4658,7 +4575,6 @@ específicas entre equipos.
 juicio sobre lo que es relevante; participación útil en la generalidad,
 pero puede fallar al responder cuestionamientos específicos, o puede
 dar respuestas muy generales y/o genéricas.
-
 
 **4 Debajo del
 promedio**
@@ -4714,7 +4630,6 @@ la mayoría de comparativas entre equipos.
 **- Discusión:** deficiente contribución a la discusión; participación poco
 útil; en momentos contraproducente para la discusión.
 
-
 ## Apéndice C: Glosario
 
 ### Abreviaciones
@@ -4730,26 +4645,33 @@ la mayoría de comparativas entre equipos.
 ```
 AG: Alta de Gobierno BG: Baja de Gobierno
 ```
+
 ```
 AO: Alta de Oposición BO: Baja de Oposición
 ```
+
 ```
 PM: Primera Ministra EG: Extensionista de Gobierno
 ```
+
 ```
 LO: Líder de Oposición EO: Extensionista de Oposición
 ```
+
 ```
 VPM: Vice Primera Ministra LátG: Látigo de Gobierno
 ```
+
 ```
 VLO: Vice Líder de Oposición LátO: Látigo de Oposición
 ```
+
 **?**
 
 ```
 1 Deplorable
 ```
+
 **- Precisión:** resultado completamente inexacto que falla totalmente al
 identificar al menos una de las posiciones ‘evidentes’ de forma correcta;
 los resultados reflejan problemas de entendimiento fundamentales en
@@ -4765,8 +4687,6 @@ der los resultados.
 **- Discusión:** contribución a la discusión muy deficiente; obstruye signif-
 icativamente la deliberación; participación detrimental para el panel.
 
-
-
 ### Definiciones y traducciones
 
 **_Backlash:_** una respuesta o reacción negativa, particularmente a una acción políti-
@@ -4781,9 +4701,11 @@ elegibles.
 ```
 Break open: categoría a la que todos los equipos del torneo son elegibles.
 ```
+
 ```
 Call: el resultado del debate; la clasificación de los equipos en una ronda.
 ```
+
 **Carga de la prueba:** la responsabilidad de un equipo de demostrar algo en el
 debate, que surge de la redacción de la moción o de los argumentos presentados
 por el equipo en cuestión.
@@ -4791,6 +4713,7 @@ por el equipo en cuestión.
 ```
 Chair: la jueza principal que preside el debate y la discusión entre las juezas.
 ```
+
 **_Chief Adjudicator (CA):_** un miembro del Equipo de Adjudicación; jefa de adjudi-
 cación.
 
@@ -4800,15 +4723,18 @@ equipos describen cómo se habría desarrollado un mundo alternativo sin X.
 ```
 Counter-factual: [contrafáctico].
 ```
+
 **_Delta:_** 'cambio comparativo' o diferencia entre dos argumentos, estados, o resul-
 tados.
 
 ```
 Diagonal corta: la comparación entre AO y BG.
 ```
+
 ```
 Diagonal larga: la comparativa entre AG y BO.
 ```
+
 **_Draw:_** el cuadro (comúnmente generado por _Tabbycat_ ) mostrado antes de cada
 ronda en el que se pueden ver cada equipo y su posición en el debate, las juezas y la
 sala en donde van a debatir.
@@ -4824,13 +4750,14 @@ otros equipos.
 Extension speech: [discurso de extensión] el primer discurso de las Cámaras Bajas.
 ```
 
-
 ```
 Framing: [encuadre].
 ```
+
 ```
 Fiat: la capacidad y poder de realizar una política.
 ```
+
 **_Fiat_** de gobierno: en mociones políticas, debe asumirse que la política que propone
 Gobierno se podrá implementar en el mundo.
 
@@ -4842,6 +4769,7 @@ la de Gobierno.
 ```
 Framing: [encuadre].
 ```
+
 **Impacto:** se refiere a las consecuencias de un argumento; un impacto que puede
 ser exclusivo de un lado puede implicar _delta._
 
@@ -4869,6 +4797,7 @@ sos para un debate (quince minutos).
 ```
 Puntos de choque: los principales puntos de contensión y controversia en el debate.
 ```
+
 **Puntos de equipo:** durante rondas preliminares, los equipos reciben una cantidad
 de puntos de acuerdo con su posición en cada debate. Se reciben tres puntos por
 cada primer lugar, dos puntos por cada segundo lugar, un punto por cada tercer
@@ -4880,7 +4809,6 @@ debatiente por su discurso presentado un debate de rondas eliminatorias.
 ```
 Power matching: durante las rondas preliminares de un torneo, se busca que los
 ```
-
 
 equipos con puntajes más cercanos se enfrenten entre sí.
 
@@ -4904,6 +4832,7 @@ exclusivos de una bancada.
 ```
 Speaker points / Speaks (SP): [puntos de oradora].
 ```
+
 **_Split:_** [decisión dividida] cuando no es posible para las juezas llegar a un consenso,
 en el tiempo disponible, es necesario que el panel vote. Hay un _split_ si una o varias
 comparativas no son unánimes.
@@ -4935,14 +4864,13 @@ cación, puede participar en la discusión entre juezas, pero no puede votar.
 Votante informada promedio: persona hipotética informada sobre asuntos políti-
 ```
 
-
 cos y sociales, que carece de conocimiento especializado. Es inteligente al punto de
 poder comprender y evaluar argumentos.
 
 ```
 Wash: [simetrización].
 ```
+
 ```
 Whip Speech: [discurso de látigo] el segundo discurso de las Cámaras Bajas.
 ```
-

@@ -3,7 +3,7 @@ from pathlib import Path
 # Load markdown file
 text = Path("data/Manual_cleaned.md").read_text(encoding="utf-8")
 
-# Split by headings or sections (naive split)
+# Dividir por ### 
 chunks = [f"### {c.strip()}" for c in text.split("\n### ") if c.strip()]
 
 from sentence_transformers import SentenceTransformer
@@ -19,6 +19,6 @@ def retrieve_context(query, top_k=3):
     D, I = index.search(query_vec, top_k)
     return [chunks[i] for i in I[0]]
 
-context = retrieve_context("se usan pronombres?")
+context = retrieve_context("Como funciona una moción política")
 
 print(context)
