@@ -18,10 +18,10 @@ generation_config = {
     "response_mime_type": "text/plain"
 }
 
-# Optional: add context or instruction to guide model behavior
+
 system_instruction = "Eres un modelo de IA especializado en debate BP"
 
-# Create model instance
+
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
     generation_config=generation_config,
@@ -30,7 +30,7 @@ model = genai.GenerativeModel(
 
 chat = model.start_chat()
 
-# Simple interactive loop
+
 print("Chat started (type 'exit' to quit)")
 while True:
     user_input = input("You: ")

@@ -62,7 +62,7 @@ def scrape_tabbycat(url):
 
 def generate_json_motions():
   json_list = []
-  with open("data/test.txt","r") as f:
+  with open("data/links.txt","r") as f:
     for line in f:
       link = line.strip("\n")
       motions = scrape_tabbycat(format_link(link))

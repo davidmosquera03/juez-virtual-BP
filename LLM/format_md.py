@@ -7,19 +7,20 @@ def remove_before_index(text):
 
 with open('data/manual.md', 'r', encoding='utf-8') as f:
      markdown_text = f.read()
-# remover pie de pagina
-pattern_to_remove = r"```\s*REPÚBLICA\s*DOMINICANA\s*```|(\#\# (Reglas Centrales|REPÚBLICA|de Debate BP))"
 
-cleaned_markdown_text = re.sub(pattern_to_remove, "", markdown_text, flags=re.DOTALL)
+# remover pie de pagina
+pattern_1 = r"```\s*REPÚBLICA\s*DOMINICANA\s*```|(\#\# (Reglas Centrales|REPÚBLICA|de Debate BP))"
+
+cleaned_text_1 = re.sub(pattern_1, "", markdown_text, flags=re.DOTALL)
 
 pattern2 = r"(\*\*REPÚBLICA\*\*\s*\n\s*)|(\\*\*\*DOMINICANA\*\*\s)"
 
-cleaned_markdown_text2 = re.sub(pattern2, "", cleaned_markdown_text, flags=re.DOTALL)
+cleaned_text_2 = re.sub(pattern2, "", cleaned_text_1, flags=re.DOTALL)
 
 # remover seccion antes de indice
-cleaned = remove_before_index(cleaned_markdown_text2)
+cleaned = remove_before_index(cleaned_text_2)
 
-output_file_path = 'data/Manual_cleaned.md' # Or overwrite the original: 'your_file.md'
+output_file_path = 'data/Manual_cleaned.md' 
 with open(output_file_path, 'w', encoding='utf-8') as f:
     f.write(cleaned)
 print(f"Cleaned content saved to {output_file_path}")
