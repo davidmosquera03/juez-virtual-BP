@@ -261,11 +261,6 @@ como Cámaras Bajas o Segundo Gobierno y Segunda Oposición.
 **6**
 
 ```
-fifl
-
-```
-
-```
 Las oradoras presentarán sus discursos en el siguiente orden:
 ```
 
@@ -939,11 +934,6 @@ categoría para la que son elegibles.
 **1**
 
 **2**
-
-```
-fifl
-
-```
 
 ### 2.1. Ganar un debate
 
@@ -2931,11 +2921,6 @@ probable que los esfuerzos se dirijan a otras
 **B**
 
 **C**
-
-```
-fifl
-
-```
 
 #### Alternativas
 

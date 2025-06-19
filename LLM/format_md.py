@@ -13,7 +13,7 @@ pattern_1 = r"```\s*REPÚBLICA\s*DOMINICANA\s*```|(\#\# (Reglas Centrales|REPÚB
 
 cleaned_text_1 = re.sub(pattern_1, "", markdown_text, flags=re.DOTALL)
 
-pattern2 = r"(\*\*REPÚBLICA\*\*\s*\n\s*)|(\\*\*\*DOMINICANA\*\*\s)"
+pattern2 = r"(\*\*REPÚBLICA\*\*\s*\n\s*)|(\\*\*\*DOMINICANA\*\*\s)|```[^`]*fifl[^`]*```"
 
 cleaned_text_2 = re.sub(pattern2, "", cleaned_text_1, flags=re.DOTALL)
 
