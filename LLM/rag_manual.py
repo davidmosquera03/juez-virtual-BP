@@ -17,6 +17,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 embedding = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 db = FAISS.from_documents(docs, embedding)
 
+# add search_kwargs={"k": 10} inside to retreive more
 retriever = db.as_retriever()
 
 from langchain_google_genai import ChatGoogleGenerativeAI
@@ -24,13 +25,23 @@ llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.5)
 
 from langchain.chains import RetrievalQA
 
+# para historial usar rag_chain = ConversationalRetrievalChain.from_llm()
+# rag_chain({"question": query1, "chat_history": chat_history})
+
 rag_chain = RetrievalQA.from_chain_type(
     llm=llm,
     retriever=retriever,
     return_source_documents=True
 )
 
-query = "Diferencia entre alternativas y contra modelo"
+""" query = "Diferencia entre alternativas y contra modelo"
 response = rag_chain.invoke({"query": query})
+print(response["result"])
+print(response["source_documents"]) """
+
+with open("data/tdu_examen.md", "r", encoding="utf-8") as f:
+    query_text = f.read()
+
+response = rag_chain.invoke({"query": query_text})
 print(response["result"])
 print(response["source_documents"])
