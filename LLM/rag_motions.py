@@ -3,7 +3,7 @@ from langchain_core.documents import Document
 import json
 import os 
 os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
-with open("data/motions.json",encoding="utf-8") as f:
+with open("data/motions_spanish.json",encoding="utf-8") as f:
     data = json.load(f)
 
 docs = [
@@ -20,7 +20,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 embedding = GoogleGenerativeAIEmbeddings(model="models/embedding-001")  # Gemini embed model
 db = FAISS.from_documents(docs, embedding)
 
-retriever = db.as_retriever()
+retriever = db.as_retriever(search_kwargs={"k": 10})
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.5)
@@ -33,7 +33,7 @@ rag_chain = RetrievalQA.from_chain_type(
     return_source_documents=True
 )
 
-query = "mociones sobre estados unidos o USA o terminos similares"
+query = ""
 response = rag_chain.invoke({"query": query})
 print(response["result"])
 print(response["source_documents"])

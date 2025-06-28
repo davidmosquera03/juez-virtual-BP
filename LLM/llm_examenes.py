@@ -18,7 +18,7 @@ embedding = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 db = FAISS.from_documents(docs, embedding)
 
 # add search_kwargs={"k": 10} inside to retrieve more
-retriever = db.as_retriever()
+retriever = db.as_retriever(search_kwargs={"k": 10})
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.5)
@@ -42,6 +42,6 @@ print(response["source_documents"]) """
 with open("data/tdu_examen.md", "r", encoding="utf-8") as f:
     query_text = f.read()
 
-response = rag_chain.invoke({"query": query_text})
+response = rag_chain.invoke({"query": query_text+"dame las respuestas de cada pregunta, siendo la primera respusesta A, la siguiente B,etc... se breve, si son abiertas no respondas"})
 print(response["result"])
 print(response["source_documents"])
