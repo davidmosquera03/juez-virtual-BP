@@ -1,3 +1,4 @@
+# Extract Tabbycat links from Retorika and save them as .txt
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
 from selenium.webdriver.common.by import By

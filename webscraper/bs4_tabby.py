@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import time
 import json
 import requests
+
 def scrape_basic(url):
   """
   scrape without checking robots.txt
@@ -61,19 +62,21 @@ def scrape_tabbycat(url):
     return motions_list
 
 def generate_json_motions():
+  # main pipeline
+  
   json_list = []
   with open("data/links.txt","r") as f:
     for line in f:
       link = line.strip("\n")
       motions = scrape_tabbycat(format_link(link))
-      print(len(motions))
+      print(f"Motions {len(motions)}")
       if len(motions)>0:
         for x in motions:
           json_list.append(x)
   #print(json.dumps(json_list, indent=2,ensure_ascii=False))
   print(len(json_list))
   # store JSON 
-  with open("data/motions.json","w",encoding="utf-8") as f:
+  with open("data/motions2.json","w",encoding="utf-8") as f:
     f.write(json.dumps(json_list, indent=2,ensure_ascii=False))
 
 
