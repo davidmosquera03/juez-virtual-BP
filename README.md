@@ -1,14 +1,44 @@
 # juez-virtual-BP
 
-Este proyecto utiliza web scraping para recopilar mociones de debate históricas de CMUDE. Estas mociones sirven para entrenar un modelo de IA para generar nuevas y relevantes mociones de debate BP en español.
+Proyecto de IA para debate BP (British Parliamentary) usando web scraping y RAG (Retrieval-Augmented Generation).
 
-## Mociones
+## ¿Qué hace?
 
-Son seleccionadas de
+- Extrae mociones históricas desde torneos de debate mediante web scraping.
+- Procesa manuales de BP para mejorar legibilidad y búsqueda semántica.
+- Usa embeddings + FAISS para recuperación de contexto.
+- Utiliza Groq + Llama 3 para:
+  - responder preguntas sobre el manual,
+  - buscar mociones similares,
+  - generar nuevas mociones en español.
+
+## Fuentes
 
 - CMUDE
 - Rosarista
 - WUDC
+- Tabbycat
+
+## Stack
+
+- Python
+- FAISS
+- Sentence Transformers
+- Groq API
+- Llama 3
+- BeautifulSoup / Selenium
+
+## Instalación
+
+## Requerimientos
+
+Python 12, instalar dependencias del requirements.txt
+
+## .env
+
+```env
+GROQ_API_KEY=tu_api_key
+```
 
 ## Referencias
 

@@ -1,47 +1,126 @@
-from langchain_community.document_loaders import TextLoader
-from langchain.text_splitter import MarkdownHeaderTextSplitter
+# Using Rag on Debate Manual, tries to pass an Exam
 
 import os
-os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
-# Load file
-loader = TextLoader("data/Manual_cleaned.md", encoding="utf-8")
-raw_docs = loader.load()
+import faiss
+from groq import Groq
 
-# Split using markdown headers
-splitter = MarkdownHeaderTextSplitter(headers_to_split_on=[("#", "h1"), ("##", "h2"), ("###", "h3")])
-docs = splitter.split_text(raw_docs[0].page_content)
+from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
 
-from langchain_community.vectorstores import FAISS
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+load_dotenv()
 
-embedding = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
-db = FAISS.from_documents(docs, embedding)
+# =========================
+# CONFIG
+# =========================
 
-# add search_kwargs={"k": 10} inside to retrieve more
-retriever = db.as_retriever()
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
-from langchain_google_genai import ChatGoogleGenerativeAI
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.5)
+client = Groq(api_key=GROQ_API_KEY)
 
-from langchain.chains import RetrievalQA
+MANUAL_PATH = "data/Manual_cleaned.md"
 
-# para historial usar rag_chain = ConversationalRetrievalChain.from_llm()
-# rag_chain({"question": query1, "chat_history": chat_history})
+CHUNK_SIZE = 1200
+TOP_K = 3
 
-rag_chain = RetrievalQA.from_chain_type(
-    llm=llm,
-    retriever=retriever,
-    return_source_documents=True
-)
+# =========================
+# LOAD FILE
+# =========================
 
-""" query = "Diferencia entre alternativas y contra modelo"
-response = rag_chain.invoke({"query": query})
-print(response["result"])
-print(response["source_documents"]) """
+with open(MANUAL_PATH, "r", encoding="utf-8") as f:
+    text = f.read()
 
-with open("data/tdu_examen.md", "r", encoding="utf-8") as f:
-    query_text = f.read()
+# =========================
+# SIMPLE CHUNKING
+# =========================
 
-response = rag_chain.invoke({"query": query_text})
-print(response["result"])
-print(response["source_documents"])
+chunks = []
+
+for i in range(0, len(text), CHUNK_SIZE):
+    chunk = text[i:i + CHUNK_SIZE]
+    chunks.append(chunk)
+
+print(f"Chunks: {len(chunks)}")
+
+# =========================
+# EMBEDDINGS
+# =========================
+
+embedder = SentenceTransformer("all-MiniLM-L6-v2")
+
+embeddings = embedder.encode(chunks)
+
+# =========================
+# FAISS INDEX
+# =========================
+
+dimension = embeddings.shape[1]
+
+index = faiss.IndexFlatL2(dimension)
+index.add(embeddings)
+
+# =========================
+# QUERY LOOP
+# =========================
+
+while True:
+
+    query = input("\nPregunta: ")
+
+    if query.lower() in ["exit", "quit", "salir"]:
+        break
+
+    # =========================
+    # RETRIEVE
+    # =========================
+
+    query_embedding = embedder.encode([query])
+
+    distances, indices = index.search(query_embedding, TOP_K)
+
+    retrieved_chunks = [chunks[i] for i in indices[0]]
+
+    context = "\n\n".join(retrieved_chunks)
+
+    # =========================
+    # PROMPT
+    # =========================
+
+    prompt = f"""
+    Eres un experto en debate BP.
+
+    Usa SOLAMENTE el contexto proporcionado para responder.
+
+    CONTEXTO:
+    {context}
+
+    PREGUNTA:
+    {query}
+    """
+
+    # =========================
+    # GENERATE WITH GROQ
+    # =========================
+
+    response = client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        temperature=0.5,
+    )
+
+    # =========================
+    # OUTPUT
+    # =========================
+
+    print("\n===== ANSWER =====\n")
+    print(response.choices[0].message.content)
+
+    print("\n===== SOURCE CHUNKS =====\n")
+
+    for i, chunk in enumerate(retrieved_chunks, 1):
+        print(f"\n--- Chunk {i} ---")
+        print(chunk[:500])

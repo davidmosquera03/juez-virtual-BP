@@ -1,39 +1,97 @@
-
-from langchain_core.documents import Document
 import json
-import os 
-os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
-with open("data/motions_spanish.json",encoding="utf-8") as f:
+import faiss
+from groq import Groq
+
+from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+# CONFIG
+
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
+client = Groq(api_key=GROQ_API_KEY)
+
+TOP_K = 5
+
+# LOAD JSON
+
+with open("data/motions_spanish.json", encoding="utf-8") as f:
     data = json.load(f)
 
+# CREATE TEXT DOCUMENTS
+
 docs = [
-    Document(
-        page_content=f"Motion: {item['motion']}\nInfo Slide: {item['info_slide']}",
-        metadata={}
-    )
+    f"Motion: {item['motion']}\nInfo Slide: {item['info_slide']}"
     for item in data
 ]
 
-from langchain_community.vectorstores import FAISS
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+print(f"Documents: {len(docs)}")
 
-embedding = GoogleGenerativeAIEmbeddings(model="models/embedding-001")  # Gemini embed model
-db = FAISS.from_documents(docs, embedding)
+# EMBEDDINGS
 
-retriever = db.as_retriever(search_kwargs={"k": 10})
+embedder = SentenceTransformer("all-MiniLM-L6-v2")
 
-from langchain_google_genai import ChatGoogleGenerativeAI
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.5)
+embeddings = embedder.encode(docs)
 
-from langchain.chains import RetrievalQA
+# FAISS INDEX
 
-rag_chain = RetrievalQA.from_chain_type(
-    llm=llm,
-    retriever=retriever,
-    return_source_documents=True
+dimension = embeddings.shape[1]
+
+index = faiss.IndexFlatL2(dimension)
+index.add(embeddings)
+
+# USER QUERY
+
+query = input("Pregunta:")
+
+# RETRIEVE
+
+query_embedding = embedder.encode([query])
+
+distances, indices = index.search(query_embedding, TOP_K)
+
+retrieved_docs = [docs[i] for i in indices[0]]
+
+context = "\n\n".join(retrieved_docs)
+
+# PROMPT
+
+prompt = f"""
+Eres un experto en debate BP.
+
+Usa el contexto para responder la pregunta.
+
+CONTEXTO:
+{context}
+
+PREGUNTA:
+{query}
+"""
+
+# GENERATE WITH GROQ
+
+response = client.chat.completions.create(
+    model="llama-3.3-70b-versatile",
+    messages=[
+        {
+            "role": "user",
+            "content": prompt
+        }
+    ],
+    temperature=0.5,
 )
 
-query = ""
-response = rag_chain.invoke({"query": query})
-print(response["result"])
-print(response["source_documents"])
+
+# OUTPUT
+
+print("\n===== ANSWER =====\n")
+print(response.choices[0].message.content)
+
+print("\n===== SOURCE DOCUMENTS =====\n")
+
+for i, doc in enumerate(retrieved_docs, 1):
+    print(f"\n--- Document {i} ---")
+    print(doc)

@@ -1,3 +1,4 @@
+# Cleans up messy Markdown file
 import re
 
 def remove_before_index(text):
